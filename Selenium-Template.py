@@ -15,38 +15,94 @@ driver = webdriver.Chrome(options=chrome_options)
 
 matchs_by_date = {"listMatchs": {}}
 
-for page_num in range(1, 5):  # Số trang cần lấy (tùy chọn)
+
+numberofpage = []
+
+url = "https://www.hkfa.com/en/competitions/fixtures"
+driver.get(url)
+
+numberofpage = driver.find_elements(By.CSS_SELECTOR, "ul.el-pager li.number")
+soup = BeautifulSoup(driver.page_source, "html.parser")
+
+array_pages = []
+for number in numberofpage:
+    # lấy không trùng
+    number = int(number.text)
+    if number not in array_pages:
+        # parse to number
+        array_pages.append(number)
+
+
+for page_num in range(array_pages[0], array_pages[-1] + 1):
     # Tạo URL cho mỗi trang
     url = (
         f"https://www.hkfa.com/en/competitions/fixtures?year=2023-2024&page={page_num}"
     )
+
     driver.get(url)
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, ".container"))
-    )
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    # Lấy thông tin về các trận đấu
-    match_items = soup.find_all(class_="mb-5")
-    # Trích xuất thông tin từ từng trận đấu
+
+    match_items = driver.find_elements(By.CSS_SELECTOR, ".container div.mb-5")
+
     for match_item in match_items:
         match_info_parts = match_item.text.strip().split("\n")
-        if len(match_info_parts) >= 9:
-            date = match_info_parts[0].strip()
+        date = match_info_parts[0].strip()
 
-            match_obj = {
-                "match_time": match_info_parts[4].strip(),
-                "home_score": match_info_parts[2].strip(),
-                "guest_score": match_info_parts[3].strip(),
-                "match_id": 41185,
-                "match_date": match_info_parts[0].strip(),
-                "match_round": "d",
-                "match_ticket": match_info_parts[-1].strip(),
-                "matchStatus": "g",
-                "match_status": "e",
-                "venue_id": "W",
-                "live_icon": [],
-                "Venue": {"venue_id": "W", "VenueName": "aF"},
-            }
+        match_details = driver.find_elements(
+            By.CSS_SELECTOR, ".container div.mb-5 div.single-fixture"
+        )
+        for match_detail in match_details:
+            match_detail = match_detail.text.strip().split("\n")
+
+            if match_detail[0].strip() == "DELAY":
+                match_obj = {
+                    "date": match_info_parts[0].strip(),
+                    "home_score": match_detail[0].strip(),
+                    "away_score": match_detail[0].strip(),
+                    "match_time": match_detail[1].strip(),
+                    "home_team": match_detail[2].strip(),
+                    "away_team": match_detail[3].strip(),
+                }
+            elif not match_detail[0].isnumeric():
+                match_obj = {
+                    "date": match_info_parts[0].strip(),
+                    "home_score": "",
+                    "away_score": "",
+                    "match_time": match_detail[0].strip(),
+                    "home_team": match_detail[1].strip(),
+                    "away_team": match_detail[2].strip(),
+                }
+            else:
+                match_obj = {
+                    "date": match_info_parts[0].strip(),
+                    "home_score": match_detail[0].strip(),
+                    "away_score": match_detail[1].strip(),
+                    "match_time": match_detail[2].strip(),
+                    "home_team": match_detail[3].strip(),
+                    "away_team": match_detail[4].strip(),
+                }
+            
+
+            keywords = ["Park", "Training Center", "Playground", "Stadium", "Ground"]
+            for i in range(4, len(match_detail)):
+
+                contains_keyword = any(keyword in match_detail[i] for keyword in keywords)
+                if contains_keyword:
+                    match_obj["venue"] = match_detail[i].strip()
+                    break
+
+            keywords = ["Cup", "League", "Division"]
+            for i in range(4,len(match_detail)):
+
+                contains_keyword = any(keyword in match_detail[i] for keyword in keywords)
+                if contains_keyword:
+                    match_obj["tournament"] = match_detail[i].strip()
+                    break
+                
+
+            keywords = ["$", "T.B.C"]
+            if any(keyword in match_detail[-1].strip() for keyword in keywords):
+                match_obj["ticket"] = match_detail[-1].strip()
+
 
             if date not in matchs_by_date["listMatchs"]:
                 matchs_by_date["listMatchs"][date] = []
@@ -64,7 +120,7 @@ output_file = "match_data.json"
 # Empty JSON file
 with open(output_file, "w") as json_file:
     json_file.write("{}")
-    
+
 with open(output_file, "w") as json_file:
     json.dump(matchs_by_date, json_file, indent=4)
 
