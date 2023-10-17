@@ -60,6 +60,11 @@ driver.quit()
 
 # Lưu dữ liệu vào file JSON
 output_file = "match_data.json"
+
+# Empty JSON file
+with open(output_file, "w") as json_file:
+    json_file.write("{}")
+    
 with open(output_file, "w") as json_file:
     json.dump(matchs_by_date, json_file, indent=4)
 
