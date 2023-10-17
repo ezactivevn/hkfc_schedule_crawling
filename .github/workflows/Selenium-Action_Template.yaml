@@ -1,6 +1,8 @@
-name: Run Selenium On GitHub Action
+name: Run Selenium On GitHub Action every day at 00:10 AM
 on:
   workflow_dispatch:
+  schedule: 
+    - cron: '10 0 * * *' 
 permissions:
   contents: write
 jobs:
