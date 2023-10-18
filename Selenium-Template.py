@@ -32,11 +32,23 @@ for number in numberofpage:
         # parse to number
         array_pages.append(number)
 
+array_dates = []
+# today to next 10 days
+import datetime
 
-for page_num in range(array_pages[0], array_pages[-1] + 1):
+# Get today's date
+today = datetime.date.today()
+
+# Get the dates for the next 10 days
+dates = [today + datetime.timedelta(days=i) for i in range(10)]
+
+
+
+
+for date in dates:
     # Tạo URL cho mỗi trang
     url = (
-        f"https://www.hkfa.com/en/competitions/fixtures?year=2023-2024&page={page_num}"
+        f"https://www.hkfa.com/en/competitions/fixtures?year=2023-2024&page=1&date={date.strftime('%Y-%m-%d')}"
     )
 
     driver.get(url)
@@ -109,7 +121,7 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
 
             matchs_by_date["listMatchs"][date].append(match_obj)
 
-    print(f"Lấy dữ liệu từ trang {page_num}")
+    print(f"Lấy dữ liệu cho ngày {date}")
 
 # Đóng trình duyệt
 driver.quit()
