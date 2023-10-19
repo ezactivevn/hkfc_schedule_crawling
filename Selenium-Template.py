@@ -57,6 +57,27 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
         )
 
         for match in matchs_by_date.find_elements(By.CSS_SELECTOR, "div.single-fixture"):
+
+            # We need GA (grassroot app), Premier Youth League,  
+            # Women league, Jockey Club League 
+            # and need for both team: Hong Kong Football Club and Lucky Mile
+            tournament_required = ["Premier", "Youth", "Women's Football League", "Jockey Club", "Hong Kong"]
+
+            # if not in tournament_required continue
+
+            try:
+                tournament_element = match.find_element(By.CSS_SELECTOR, "div.league-wrapper")
+                tournament = tournament_element.text.strip()
+
+                # Check if tournament contains any of the required strings
+                if not any(required in tournament for required in tournament_required):
+                    print(f"Skip {tournament}")
+                    continue
+
+            except NoSuchElementException:
+                pass
+
+
             data = {
                 "date": date_of_match,
                 "home_team": "",
