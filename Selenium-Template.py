@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
+import re
 
 from bs4 import BeautifulSoup
 
@@ -37,6 +38,15 @@ for number in numberofpage:
 
 results = []
 
+
+# Function to extract group information    # Function to extract group information
+def extract_group(team_name):
+    group_match = re.search(r'\b[Uu]\d{2}\b', team_name)
+    if group_match:
+        return group_match.group()
+    return None
+
+
 for page_num in range(array_pages[0], array_pages[-1] + 1):
     # Tạo URL cho mỗi trang
     url = (
@@ -51,32 +61,21 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
         date_of_match = match_item.find_element(
             By.CSS_SELECTOR, "div.strong-title"
         ).text
-        
-        matchs_by_date = match_item.find_element(
-            By.CSS_SELECTOR, "div.items"
-        )
 
-        for match in matchs_by_date.find_elements(By.CSS_SELECTOR, "div.single-fixture"):
+        matchs_by_date = match_item.find_element(By.CSS_SELECTOR, "div.items")
 
-            # We need GA (grassroot app), Premier Youth League,  
-            # Women league, Jockey Club League 
+        for match in matchs_by_date.find_elements(
+            By.CSS_SELECTOR, "div.single-fixture"
+        ):
+            # We need GA (grassroot app), Premier Youth League,
+            # Women league, Jockey Club League
             # and need for both team: Hong Kong Football Club and Lucky Mile
-            tournament_required = ["Premier", "Youth", "Women's Football League", "Jockey Club", "Hong Kong"]
-
-            # if not in tournament_required continue
-
-            try:
-                tournament_element = match.find_element(By.CSS_SELECTOR, "div.league-wrapper")
-                tournament = tournament_element.text.strip()
-
-                # Check if tournament contains any of the required strings
-                if not any(required in tournament for required in tournament_required):
-                    print(f"Skip {tournament}")
-                    continue
-
-            except NoSuchElementException:
-                pass
-
+            tournament_required = [
+                "BOC Life Hong Kong Premier League",
+                "Jockey Club Women's Football League",
+                "Jockey Club Futsal League",
+            ]
+            team_required = ["HKFC", "Lucky Mile", "Hong Kong Football Club"]
 
             data = {
                 "date": date_of_match,
@@ -85,7 +84,7 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "match_time": "",
                 "venue": "",
                 "home_score": "",
-                "away_score": ""
+                "away_score": "",
             }
 
             try:
@@ -137,16 +136,31 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
             except NoSuchElementException:
                 pass
 
-            results.append(data)
-                
+            home_team_stripped = data["home_team"].strip()
+            away_team_stripped = data["away_team"].strip()
+            tournament_stripped = data["tournament"].strip()
 
-            
+            group = extract_group(home_team_stripped) and extract_group(home_team_stripped) or extract_group(away_team_stripped)
 
+            if group:
+                data["group"] = group
+            else:
+                data["group"] = ""
 
+            if not any(required in tournament_stripped for required in tournament_required):
+                if any(required in home_team_stripped for required in team_required):
+                    results.append(data)
+                elif any(required in away_team_stripped for required in team_required):
+                    results.append(data)
+                else:
+                    print(
+                        f"Skipped data from {home_team_stripped} vs {away_team_stripped} in {tournament_stripped}"
+                    )
+            else:
+                print(
+                    f"Skipped data from {home_team_stripped} vs {away_team_stripped} in {tournament_stripped}"
+                )
 
-
-        
-       
     print(f"Lấy dữ liệu từ trang {page_num}")
 
 # Đóng trình duyệt
