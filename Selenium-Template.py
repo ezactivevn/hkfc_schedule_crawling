@@ -74,6 +74,7 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "BOC Life Hong Kong Premier League",
                 "Jockey Club Women's Football League",
                 "Jockey Club Futsal League",
+                "2nd Division"
             ]
             team_required = ["HKFC", "Lucky Mile", "Hong Kong Football Club"]
 
