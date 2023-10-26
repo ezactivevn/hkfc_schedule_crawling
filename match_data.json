@@ -471,5 +471,38 @@
         "away_score": "",
         "tournament": "JC Sapling Cup (Group A)",
         "group": ""
+    },
+    {
+        "date": "2024-01-28",
+        "home_team": "HKFC",
+        "away_team": "Sham Shui Po",
+        "match_time": "16:30",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "JC Sapling Cup (Group A)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-07",
+        "home_team": "HK U23",
+        "away_team": "HKFC",
+        "match_time": "20:00",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "JC Sapling Cup (Group A)",
+        "group": "U23"
+    },
+    {
+        "date": "2024-03-09",
+        "home_team": "Kitchee",
+        "away_team": "Hong Kong Football Club",
+        "match_time": "15:00",
+        "venue": "Mongkok Stadium",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "FA Cup",
+        "group": ""
     }
 ]
