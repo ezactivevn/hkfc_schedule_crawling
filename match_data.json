@@ -154,17 +154,6 @@
         "group": "U16"
     },
     {
-        "date": "2023-10-15",
-        "home_team": "Tai Po",
-        "away_team": "HKFC",
-        "match_time": "15:00",
-        "venue": "Siu Sai Wan Sports Ground",
-        "home_score": "2",
-        "away_score": "1",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
         "date": "2023-10-20",
         "home_team": "HKFC U16",
         "away_team": "South China U16",
@@ -374,17 +363,6 @@
         "group": "U16"
     },
     {
-        "date": "2023-11-15",
-        "home_team": "HKFC",
-        "away_team": "Tai Po",
-        "match_time": "20:00",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
         "date": "2023-11-17",
         "home_team": "HKFC U16",
         "away_team": "Konter U16",
@@ -462,17 +440,6 @@
         "group": "U18"
     },
     {
-        "date": "2023-11-26",
-        "home_team": "Eastern",
-        "away_team": "HKFC",
-        "match_time": "15:00",
-        "venue": "Sham Shui Po Sports Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
         "date": "2023-11-29",
         "home_team": "Yuen Long U16",
         "away_team": "Lucky Mile U16",
@@ -482,93 +449,5 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U16 (Challenging Group)",
         "group": "U16"
-    },
-    {
-        "date": "2023-12-24",
-        "home_team": "Sham Shui Po",
-        "away_team": "HKFC",
-        "match_time": "15:00",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
-        "date": "2023-12-31",
-        "home_team": "Kwoon Chung Southern",
-        "away_team": "HKFC",
-        "match_time": "15:00",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
-        "date": "2024-01-07",
-        "home_team": "HKFC",
-        "away_team": "HK U23",
-        "match_time": "16:30",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": "U23"
-    },
-    {
-        "date": "2024-01-14",
-        "home_team": "HKFC",
-        "away_team": "Eastern",
-        "match_time": "16:30",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
-        "date": "2024-01-21",
-        "home_team": "HKFC",
-        "away_team": "Kwoon Chung Southern",
-        "match_time": "16:30",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
-        "date": "2024-01-28",
-        "home_team": "HKFC",
-        "away_team": "Sham Shui Po",
-        "match_time": "16:30",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": ""
-    },
-    {
-        "date": "2024-02-07",
-        "home_team": "HK U23",
-        "away_team": "HKFC",
-        "match_time": "20:00",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "JC Sapling Cup (Group A)",
-        "group": "U23"
-    },
-    {
-        "date": "2024-03-09",
-        "home_team": "Kitchee",
-        "away_team": "Hong Kong Football Club",
-        "match_time": "15:00",
-        "venue": "Mongkok Stadium",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "FA Cup",
-        "group": ""
     }
 ]

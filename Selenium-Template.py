@@ -41,7 +41,7 @@ results = []
 
 # Function to extract group information    # Function to extract group information
 def extract_group(team_name):
-    group_match = re.search(r'\b[Uu]\d{2}\b', team_name)
+    group_match = re.search(r"\b[Uu]\d{2}\b", team_name)
     if group_match:
         return group_match.group()
     return None
@@ -55,6 +55,9 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
 
     driver.get(url)
 
+
+  
+
     match_items = driver.find_elements(By.CSS_SELECTOR, ".container div.mb-5")
 
     for match_item in match_items:
@@ -62,11 +65,15 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
             By.CSS_SELECTOR, "div.strong-title"
         ).text
 
+        break_out_flag = False
+
+        
+
+
         matchs_by_date = match_item.find_element(By.CSS_SELECTOR, "div.items")
 
-        for match in matchs_by_date.find_elements(
-            By.CSS_SELECTOR, "div.single-fixture"
-        ):
+        for match in matchs_by_date.find_elements(By.CSS_SELECTOR, "div.single-fixture"):
+
             # We need GA (grassroot app), Premier Youth League,
             # Women league, Jockey Club League
             # and need for both team: Hong Kong Football Club and Lucky Mile
@@ -74,7 +81,9 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "BOC Life Hong Kong Premier League",
                 "Jockey Club Women's Football League",
                 "Jockey Club Futsal League",
-                "2nd Division"
+                "2nd Division",
+                "JC Sapling Cup",
+                "FA Cup"
             ]
             team_required = ["HKFC", "Lucky Mile", "Hong Kong Football Club"]
 
@@ -88,67 +97,80 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "away_score": "",
             }
 
-            try:
-                data["home_team"] = match.find_element(
-                    By.CSS_SELECTOR, "div.home-team"
-                ).text
-            except NoSuchElementException:
-                pass
+            try: 
 
-            try:
-                data["away_team"] = match.find_element(
-                    By.CSS_SELECTOR, "div.guest-team"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["home_team"] = match.find_element(
+                        By.CSS_SELECTOR, "div.home-team"
+                    ).text
+                except NoSuchElementException:
+                    pass
 
-            try:
-                data["match_time"] = match.find_element(
-                    By.CSS_SELECTOR, "div.clock"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["away_team"] = match.find_element(
+                        By.CSS_SELECTOR, "div.guest-team"
+                    ).text
+                except NoSuchElementException:
+                    pass
 
-            try:
-                data["venue"] = match.find_element(
-                    By.CSS_SELECTOR, "div.venue-wrapper"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["match_time"] = match.find_element(
+                        By.CSS_SELECTOR, "div.clock"
+                    ).text
+                except NoSuchElementException:
+                    pass
 
-            try:
-                data["tournament"] = match.find_element(
-                    By.CSS_SELECTOR, "div.league-wrapper"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["venue"] = match.find_element(
+                        By.CSS_SELECTOR, "div.venue-wrapper"
+                    ).text
+                except NoSuchElementException:
+                    pass
 
-            try:
-                data["home_score"] = match.find_element(
-                    By.CSS_SELECTOR, "div.score:nth-child(1)"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["tournament"] = match.find_element(
+                        By.CSS_SELECTOR, "div.league-wrapper"
+                    ).text
+                except NoSuchElementException:
+                    pass
 
-            try:
-                data["away_score"] = match.find_element(
-                    By.CSS_SELECTOR, "div.score:nth-child(2)"
-                ).text
-            except NoSuchElementException:
-                pass
+                try:
+                    data["home_score"] = match.find_element(
+                        By.CSS_SELECTOR, "div.score:nth-child(1)"
+                    ).text
+                except NoSuchElementException:
+                    pass
+
+                try:
+                    data["away_score"] = match.find_element(
+                        By.CSS_SELECTOR, "div.score:nth-child(2)"
+                    ).text
+                except NoSuchElementException:
+                    pass
+            except Exception:
+                break_out_flag = True
+                break 
+                
+
 
             home_team_stripped = data["home_team"].strip()
             away_team_stripped = data["away_team"].strip()
             tournament_stripped = data["tournament"].strip()
 
-            group = extract_group(home_team_stripped) and extract_group(home_team_stripped) or extract_group(away_team_stripped)
+            group = (
+                extract_group(home_team_stripped)
+                and extract_group(home_team_stripped)
+                or extract_group(away_team_stripped)
+            )
 
             if group:
                 data["group"] = group
             else:
                 data["group"] = ""
 
-            if not any(required in tournament_stripped for required in tournament_required):
+            if not any(
+                required in tournament_stripped for required in tournament_required
+            ):
                 if any(required in home_team_stripped for required in team_required):
                     results.append(data)
                 elif any(required in away_team_stripped for required in team_required):
@@ -162,6 +184,8 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                     f"Skipped data from {home_team_stripped} vs {away_team_stripped} in {tournament_stripped}"
                 )
 
+        if break_out_flag:
+            break
     print(f"Lấy dữ liệu từ trang {page_num}")
 
 # Đóng trình duyệt
