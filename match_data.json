@@ -341,6 +341,17 @@
         "group": ""
     },
     {
+        "date": "2023-11-05",
+        "home_team": "Hong Kong Football Club [Women youth]",
+        "away_team": "Major League Football Academy [Women youth]",
+        "match_time": "11:15",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
         "date": "2023-11-10",
         "home_team": "Eastern U16",
         "away_team": "HKFC U16",
@@ -393,6 +404,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U14-Group B)",
+        "group": ""
+    },
+    {
+        "date": "2023-11-12",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "12:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": ""
     },
     {
@@ -462,72 +484,6 @@
         "group": ""
     },
     {
-        "date": "2023-11-19",
-        "home_team": "HKFC",
-        "away_team": "Southern",
-        "match_time": "09:30",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U14-Group A)",
-        "group": ""
-    },
-    {
-        "date": "2023-11-19",
-        "home_team": "Lucky Mile",
-        "away_team": "Tai Po",
-        "match_time": "11:00",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U13-Group J)",
-        "group": ""
-    },
-    {
-        "date": "2023-11-19",
-        "home_team": "HKFC U14",
-        "away_team": "Eastern U14",
-        "match_time": "15:30",
-        "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group)",
-        "group": "U14"
-    },
-    {
-        "date": "2023-11-19",
-        "home_team": "HKFC",
-        "away_team": "Kitchee",
-        "match_time": "18:30",
-        "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U13-Group H)",
-        "group": ""
-    },
-    {
-        "date": "2023-11-19",
-        "home_team": "Lucky Mile U14",
-        "away_team": "Kitchee U14",
-        "match_time": "19:00",
-        "venue": "Jockey Club Kitchee Centre No.1",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group)",
-        "group": "U14"
-    },
-    {
-        "date": "2023-11-24",
-        "home_team": "Tai Po",
-        "away_team": "Lucky Mile",
-        "match_time": "18:30",
-        "venue": "Tuen Mun Tang Shiu Kin Sports Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U16-Group C)",
-        "group": ""
-    },
-    {
         "date": "2023-11-24",
         "home_team": "Lee Man U16",
         "away_team": "HKFC U16",
@@ -594,6 +550,28 @@
         "group": ""
     },
     {
+        "date": "2023-11-26",
+        "home_team": "Hong Kong Football Club [Women youth]",
+        "away_team": "Chelsea FC Soccer School (HK) [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2023-11-26",
+        "home_team": "Major League Football Academy [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "12:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
         "date": "2023-11-29",
         "home_team": "Yuen Long U16",
         "away_team": "Lucky Mile U16",
@@ -624,6 +602,127 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U18-Group G)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-03",
+        "home_team": "WSE [Women youth]",
+        "away_team": "Hong Kong Football Club [Women youth]",
+        "match_time": "12:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-09",
+        "home_team": "GFC",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18-Group B)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-10",
+        "home_team": "Hong Kong Football Club [Women youth]",
+        "away_team": "Grace Citizen [Women youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-10",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Chelsea FC Soccer School (HK) [Women youth]",
+        "match_time": "12:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-01-12",
+        "home_team": "North District",
+        "away_team": "Lucky Mile",
+        "match_time": "20:30",
+        "venue": "North District Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18-Group G)",
+        "group": ""
+    },
+    {
+        "date": "2024-01-21",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Grace Citizen [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-01-28",
+        "home_team": "Major League Football Academy [Women youth]",
+        "away_team": "Hong Kong Football Club [Women youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-01-28",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Kitchee [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-04",
+        "home_team": "Hong Kong Football Club [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-18",
+        "home_team": "Chelsea FC Soccer School (HK) [Women youth]",
+        "away_team": "Hong Kong Football Club [Women youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-18",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Major League Football Academy [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": ""
     }
 ]
