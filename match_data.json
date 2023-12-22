@@ -1607,6 +1607,17 @@
     },
     {
         "date": "2024-02-18",
+        "home_team": "HKFC",
+        "away_team": "Sha Tin",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group A)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-18",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "Major League Football Academy [Women youth]",
         "match_time": "11:15",
@@ -1669,6 +1680,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U16-Group A)",
+        "group": ""
+    },
+    {
+        "date": "2024-02-25",
+        "home_team": "Lucky Mile",
+        "away_team": "Sai Kung",
+        "match_time": "09:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group B)",
         "group": ""
     },
     {
@@ -1804,6 +1826,17 @@
         "group": "U18"
     },
     {
+        "date": "2024-03-09",
+        "home_team": "Lee Man",
+        "away_team": "HKFC",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group A)",
+        "group": ""
+    },
+    {
         "date": "2024-03-12",
         "home_team": "Chelsea FC Soccer School (HK) [Women youth]",
         "away_team": "Hong Kong Football Club [Women youth]",
@@ -1870,6 +1903,17 @@
         "group": "U18"
     },
     {
+        "date": "2024-03-16",
+        "home_team": "Wong Tai Sin",
+        "away_team": "HKFC",
+        "match_time": "20:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group A)",
+        "group": ""
+    },
+    {
         "date": "2024-03-19",
         "home_team": "Hong Kong Football Club [Women youth]",
         "away_team": "Kitchee [Women youth]",
@@ -1923,6 +1967,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
+    },
+    {
+        "date": "2024-03-23",
+        "home_team": "Wan Chai",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group B)",
+        "group": ""
     },
     {
         "date": "2024-04-05",
