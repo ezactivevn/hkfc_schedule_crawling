@@ -1903,6 +1903,50 @@
         "group": "U18"
     },
     {
+        "date": "2024-03-16",
+        "home_team": "Wong Tai Sin",
+        "away_team": "HKFC",
+        "match_time": "20:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-Group A)",
+        "group": ""
+    },
+    {
+        "date": "2024-03-19",
+        "home_team": "Hong Kong Football Club [Women youth]",
+        "away_team": "Kitchee [Women youth]",
+        "match_time": "18:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": ""
+    },
+    {
+        "date": "2024-03-19",
+        "home_team": "WSE [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "21:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": ""
+    },
+    {
+        "date": "2024-03-22",
+        "home_team": "South China U16",
+        "away_team": "HKFC U16",
+        "match_time": "18:45",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
+        "group": "U16"
+    },
+    {
         "date": "2024-03-22",
         "home_team": "Kwoon Chung Southern U18",
         "away_team": "Lucky Mile U18",
