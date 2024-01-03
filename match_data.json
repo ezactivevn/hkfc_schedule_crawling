@@ -1057,6 +1057,17 @@
     },
     {
         "date": "2024-01-05",
+        "home_team": "Lee Man U16",
+        "away_team": "HKFC U16",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
+        "group": "U16"
+    },
+    {
+        "date": "2024-01-05",
         "home_team": "Lee Man U18",
         "away_team": "HKFC U18",
         "match_time": "20:30",
