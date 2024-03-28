@@ -2344,6 +2344,28 @@
     },
     {
         "date": "2024-04-06",
+        "home_team": "Sha Tin",
+        "away_team": "Hong Kong Football Club",
+        "match_time": "14:00",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-FA CUP)",
+        "group": ""
+    },
+    {
+        "date": "2024-04-06",
+        "home_team": "Lucky Mile",
+        "away_team": "Wan Chai",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14-FA CUP)",
+        "group": ""
+    },
+    {
+        "date": "2024-04-06",
         "home_team": "HKFC",
         "away_team": "South China",
         "match_time": "18:30",
