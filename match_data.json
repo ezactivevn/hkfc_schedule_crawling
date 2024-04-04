@@ -2607,6 +2607,28 @@
         "group": "U18"
     },
     {
+        "date": "2024-04-27",
+        "home_team": "Lucky Mile",
+        "away_team": "ERSA",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": ""
+    },
+    {
+        "date": "2024-04-28",
+        "home_team": "Kwun Tong",
+        "away_team": "Hong Kong Football Club",
+        "match_time": "09:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": ""
+    },
+    {
         "date": "2024-04-28",
         "home_team": "HKFC U14",
         "away_team": "Lucky Mile U14",
@@ -2670,6 +2692,28 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U18 - League C)",
+        "group": ""
+    },
+    {
+        "date": "2024-05-11",
+        "home_team": "Resources Capital",
+        "away_team": "Hong Kong Football Club",
+        "match_time": "18:30",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": ""
+    },
+    {
+        "date": "2024-05-12",
+        "home_team": "Yee Ka Football Academy",
+        "away_team": "Lucky Mile",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": ""
     },
     {
