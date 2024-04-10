@@ -990,6 +990,72 @@
         "group": ""
     },
     {
+        "date": "2023-12-16",
+        "home_team": "A&S Football Center",
+        "away_team": "Lucky Mile",
+        "match_time": "18:30",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "1",
+        "away_score": "1",
+        "tournament": "Jockey Club Youth Football League (U16-Group C)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-16",
+        "home_team": "Lucky Mile U14",
+        "away_team": "Kitchee U14",
+        "match_time": "19:00",
+        "venue": "Jockey Club Kitchee Centre No.1",
+        "home_score": "1",
+        "away_score": "4",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2023-12-16",
+        "home_team": "Tsuen Wan",
+        "away_team": "Lucky Mile",
+        "match_time": "20:00",
+        "venue": "Morse Park #1",
+        "home_score": "1",
+        "away_score": "3",
+        "tournament": "Jockey Club Youth Football League (U14-Group B)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-17",
+        "home_team": "WSE [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "0",
+        "away_score": "17",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-17",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "Hong Kong Football Club [Women youth]",
+        "match_time": "12:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": ""
+    },
+    {
+        "date": "2023-12-17",
+        "home_team": "HKFC U14",
+        "away_team": "Eastern U14",
+        "match_time": "16:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "2",
+        "away_score": "3",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
         "date": "2024-01-05",
         "home_team": "Lee Man U16",
         "away_team": "HKFC U16",
@@ -2365,48 +2431,15 @@
         "group": ""
     },
     {
-        "date": "2024-04-14",
-        "home_team": "Grace Citizen [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "09:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": ""
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "South China U14",
-        "away_team": "HKFC U14",
-        "match_time": "13:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "Lucky Mile",
-        "away_team": "Kwun Tong",
-        "match_time": "13:30",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U13 - League C)",
-        "group": ""
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "Eastern U14",
-        "away_team": "Lucky Mile U14",
+        "date": "2024-04-13",
+        "home_team": "Sha Tin",
+        "away_team": "Hong Kong Football Club",
         "match_time": "15:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "venue": "Wo Yi Hop Road Sports Ground",
         "home_score": "",
         "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
+        "tournament": "Jockey Club Youth Football League (U14-FA CUP)",
+        "group": ""
     },
     {
         "date": "2024-04-17",
