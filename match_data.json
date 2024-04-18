@@ -2491,8 +2491,8 @@
         "away_team": "Konter U16",
         "match_time": "18:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -2502,8 +2502,8 @@
         "away_team": "Lucky Mile U18",
         "match_time": "20:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "2",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
     },
@@ -2707,6 +2707,28 @@
     },
     {
         "date": "2024-05-03",
+        "home_team": "Yuen Long",
+        "away_team": "Hong Kong Football Club",
+        "match_time": "18:30",
+        "venue": "North District Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16-FA CUP)",
+        "group": ""
+    },
+    {
+        "date": "2024-05-03",
+        "home_team": "LFCIAHK",
+        "away_team": "Lucky Mile",
+        "match_time": "18:30",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16-FA SHIELD)",
+        "group": ""
+    },
+    {
+        "date": "2024-05-03",
         "home_team": "Kitchee U16",
         "away_team": "HKFC U16",
         "match_time": "18:45",
@@ -2781,38 +2803,5 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
-    },
-    {
-        "date": "2024-05-17",
-        "home_team": "South China U16",
-        "away_team": "HKFC U16",
-        "match_time": "18:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
-        "group": "U16"
-    },
-    {
-        "date": "2024-05-17",
-        "home_team": "Kwoon Chung Southern U18",
-        "away_team": "Lucky Mile U18",
-        "match_time": "20:45",
-        "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
-        "group": "U18"
-    },
-    {
-        "date": "2024-05-17",
-        "home_team": "RCFC U18",
-        "away_team": "HKFC U18",
-        "match_time": "20:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
-        "group": "U18"
     }
 ]
