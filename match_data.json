@@ -759,72 +759,6 @@
         "group": ""
     },
     {
-        "date": "2023-12-03",
-        "home_team": "HKFC U14",
-        "away_team": "Tai Po U14",
-        "match_time": "15:30",
-        "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "2",
-        "away_score": "1",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group)",
-        "group": "U14"
-    },
-    {
-        "date": "2023-12-05",
-        "home_team": "Grace Citizen [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "18:30",
-        "venue": "Causeway Bay SG",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": ""
-    },
-    {
-        "date": "2023-12-05",
-        "home_team": "WSE [Women youth]",
-        "away_team": "Hong Kong Football Club [Women youth]",
-        "match_time": "19:00",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "1",
-        "away_score": "12",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": ""
-    },
-    {
-        "date": "2023-12-08",
-        "home_team": "BC Rangers U16",
-        "away_team": "HKFC U16",
-        "match_time": "18:45",
-        "venue": "Kowloon Bay Park",
-        "home_score": "0",
-        "away_score": "2",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
-        "group": "U16"
-    },
-    {
-        "date": "2023-12-08",
-        "home_team": "Eastern District U16",
-        "away_team": "Lucky Mile U16",
-        "match_time": "18:45",
-        "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "0",
-        "away_score": "1",
-        "tournament": "Hong Kong Premier Youth League U16 (Challenging Group Rd.2)",
-        "group": "U16"
-    },
-    {
-        "date": "2023-12-08",
-        "home_team": "Lucky Mile U18",
-        "away_team": "RCFC U18",
-        "match_time": "20:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
-        "group": "U18"
-    },
-    {
         "date": "2023-12-08",
         "home_team": "BC Rangers U18",
         "away_team": "HKFC U18",
@@ -2772,6 +2706,50 @@
         "group": ""
     },
     {
+        "date": "2024-05-05",
+        "home_team": "Lucky Mile U14",
+        "away_team": "Lee Man U14",
+        "match_time": "14:45",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "1",
+        "away_score": "2",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-05-05",
+        "home_team": "Kwai Tsing",
+        "away_team": "Lucky Mile",
+        "match_time": "16:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "4",
+        "away_score": "1",
+        "tournament": "Jockey Club Youth Football League (U14-FA CUP)",
+        "group": ""
+    },
+    {
+        "date": "2024-05-08",
+        "home_team": "HKFC U14",
+        "away_team": "Kitchee U14",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "5",
+        "away_score": "6",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-05-10",
+        "home_team": "Lucky Mile",
+        "away_team": "Sai Kung",
+        "match_time": "18:30",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "5",
+        "away_score": "1",
+        "tournament": "Jockey Club Youth Football League (U18 - League C)",
+        "group": ""
+    },
+    {
         "date": "2024-05-11",
         "home_team": "Resources Capital",
         "away_team": "Hong Kong Football Club",
@@ -2942,8 +2920,8 @@
         "away_team": "Sham Shui Po",
         "match_time": "09:30",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "12",
+        "away_score": "0",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": ""
     },
@@ -2953,8 +2931,8 @@
         "away_team": "Central & Western",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": ""
     },
