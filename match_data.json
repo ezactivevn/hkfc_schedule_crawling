@@ -1936,17 +1936,6 @@
         "group": "U14"
     },
     {
-        "date": "2024-03-03",
-        "home_team": "Hong Kong Football Club [Women youth]",
-        "away_team": "WSE [Women youth]",
-        "match_time": "11:15",
-        "venue": "Morse Park #1",
-        "home_score": "7",
-        "away_score": "0",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": ""
-    },
-    {
         "date": "2024-03-05",
         "home_team": "Lucky Mile U18",
         "away_team": "HKFC U18",
@@ -2440,50 +2429,6 @@
         "away_score": "4",
         "tournament": "Jockey Club Youth Football League (U14-FA CUP)",
         "group": ""
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "Grace Citizen [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "09:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "2",
-        "away_score": "4",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": ""
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "South China U14",
-        "away_team": "HKFC U14",
-        "match_time": "13:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "2",
-        "away_score": "2",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "Lucky Mile",
-        "away_team": "Kwun Tong",
-        "match_time": "13:30",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "5",
-        "away_score": "1",
-        "tournament": "Jockey Club Youth Football League (U13 - League C)",
-        "group": ""
-    },
-    {
-        "date": "2024-04-14",
-        "home_team": "Eastern U14",
-        "away_team": "Lucky Mile U14",
-        "match_time": "15:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "1",
-        "away_score": "4",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
     },
     {
         "date": "2024-04-17",
