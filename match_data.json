@@ -1584,50 +1584,6 @@
         "group": ""
     },
     {
-        "date": "2024-02-04",
-        "home_team": "ERSA",
-        "away_team": "Hong Kong Football Club",
-        "match_time": "13:30",
-        "venue": "Kwu Tung Grass Pitch",
-        "home_score": "0",
-        "away_score": "3",
-        "tournament": "Jockey Club Youth Football League (U13 - League C)",
-        "group": ""
-    },
-    {
-        "date": "2024-02-04",
-        "home_team": "Lucky Mile U14",
-        "away_team": "HKFC U14",
-        "match_time": "14:45",
-        "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "0",
-        "away_score": "2",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
-    },
-    {
-        "date": "2024-02-16",
-        "home_team": "Lucky Mile U16",
-        "away_team": "Eastern District U16",
-        "match_time": "18:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "4",
-        "away_score": "0",
-        "tournament": "Hong Kong Premier Youth League U16 (Challenging Group Rd.2)",
-        "group": "U16"
-    },
-    {
-        "date": "2024-02-16",
-        "home_team": "Konter U16",
-        "away_team": "HKFC U16",
-        "match_time": "18:45",
-        "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "2",
-        "away_score": "3",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
-        "group": "U16"
-    },
-    {
         "date": "2024-02-16",
         "home_team": "Kwun Tong",
         "away_team": "Hong Kong Football Club",
