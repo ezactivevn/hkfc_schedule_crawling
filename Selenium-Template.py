@@ -1,3 +1,4 @@
+import datetime
 import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options  # Import ChromeOptions
@@ -18,11 +19,24 @@ driver = webdriver.Chrome(options=chrome_options)
 
 matchs_by_date = {"listMatchs": {}}
 
-
 numberofpage = []
 
 url = "https://www.hkfa.com/en/competitions/fixtures"
 driver.get(url)
+
+# get current season
+# if current month >= 7 then current season is current year - current year + 1
+# else current season is current year - current year - 1
+# example: current month is 8 then current season is 2024-2025
+# example: current month is 6 then current season is 2023-2024
+currentYear = datetime.datetime.now().year
+currentMonth = datetime.datetime.now().month
+if currentMonth >= 7:
+    current_season = f"{currentYear}-{currentYear+1}"
+else:
+    current_season = f"{currentYear-1}-{currentYear}"
+
+print(f"Current season: {current_season}")
 
 numberofpage = driver.find_elements(By.CSS_SELECTOR, "ul.el-pager li.number")
 soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -39,9 +53,13 @@ for number in numberofpage:
 results = []
 
 
-# Function to extract group information    # Function to extract group information
-def extract_group(team_name):
+# Function to extract group information from team name or tournament name
+# Example: HKFC U18, HKFC U18 Girls, Lucky Mile U18
+def extract_group(team_name, tournament_name):
     group_match = re.search(r"\b[Uu]\d{2}\b", team_name)
+    if group_match:
+        return group_match.group()
+    group_match = re.search(r"\b[Uu]\d{2}\b", tournament_name)
     if group_match:
         return group_match.group()
     return None
@@ -49,14 +67,9 @@ def extract_group(team_name):
 
 for page_num in range(array_pages[0], array_pages[-1] + 1):
     # Tạo URL cho mỗi trang
-    url = (
-        f"https://www.hkfa.com/en/competitions/fixtures?year=2023-2024&page={page_num}"
-    )
+    url = f"https://www.hkfa.com/en/competitions/fixtures?year={current_season}&page={page_num}"
 
     driver.get(url)
-
-
-  
 
     match_items = driver.find_elements(By.CSS_SELECTOR, ".container div.mb-5")
 
@@ -67,12 +80,11 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
 
         break_out_flag = False
 
-        
-
-
         matchs_by_date = match_item.find_element(By.CSS_SELECTOR, "div.items")
 
-        for match in matchs_by_date.find_elements(By.CSS_SELECTOR, "div.single-fixture"):
+        for match in matchs_by_date.find_elements(
+            By.CSS_SELECTOR, "div.single-fixture"
+        ):
 
             # We need GA (grassroot app), Premier Youth League,
             # Women league, Jockey Club League
@@ -83,7 +95,7 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "Jockey Club Futsal League",
                 "2nd Division",
                 "JC Sapling Cup",
-                "FA Cup"
+                "FA Cup",
             ]
             team_required = ["HKFC", "Lucky Mile", "Hong Kong Football Club"]
 
@@ -97,7 +109,7 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                 "away_score": "",
             }
 
-            try: 
+            try:
 
                 try:
                     data["home_team"] = match.find_element(
@@ -149,18 +161,16 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                     pass
             except Exception:
                 break_out_flag = True
-                break 
-                
-
+                break
 
             home_team_stripped = data["home_team"].strip()
             away_team_stripped = data["away_team"].strip()
             tournament_stripped = data["tournament"].strip()
 
             group = (
-                extract_group(home_team_stripped)
-                and extract_group(home_team_stripped)
-                or extract_group(away_team_stripped)
+                extract_group(home_team_stripped, tournament_stripped)
+                and extract_group(home_team_stripped, tournament_stripped)
+                or extract_group(away_team_stripped, tournament_stripped)
             )
 
             if group:
@@ -177,11 +187,11 @@ for page_num in range(array_pages[0], array_pages[-1] + 1):
                     results.append(data)
                 else:
                     print(
-                        f"Skipped data from {home_team_stripped} vs {away_team_stripped} in {tournament_stripped}"
+                        f"Skipped match {home_team_stripped} vs {away_team_stripped} [{tournament_stripped}]"
                     )
             else:
                 print(
-                    f"Skipped data from {home_team_stripped} vs {away_team_stripped} in {tournament_stripped}"
+                    f"Skipped tournament [{tournament_stripped}]"
                 )
 
         if break_out_flag:
