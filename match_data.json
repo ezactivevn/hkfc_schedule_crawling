@@ -1,5 +1,16 @@
 [
     {
+        "date": "2024-09-08",
+        "home_team": "HKFC",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "4",
+        "away_score": "0",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
         "date": "2024-09-13",
         "home_team": "Eastern",
         "away_team": "HKFC",
@@ -99,6 +110,39 @@
         "group": "U18"
     },
     {
+        "date": "2024-09-21",
+        "home_team": "HKFC",
+        "away_team": "A&S Football Center",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
+        "group": "U13"
+    },
+    {
+        "date": "2024-09-21",
+        "home_team": "Lucky Mile",
+        "away_team": "RCFC",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group E)",
+        "group": "U13"
+    },
+    {
+        "date": "2024-09-22",
+        "home_team": "HKFC",
+        "away_team": "Soar Football Club",
+        "match_time": "13:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group A)",
+        "group": "U18"
+    },
+    {
         "date": "2024-09-27",
         "home_team": "Kitchee",
         "away_team": "HKFC",
@@ -133,6 +177,17 @@
     },
     {
         "date": "2024-09-28",
+        "home_team": "LFCIAHK",
+        "away_team": "Lucky Mile",
+        "match_time": "15:00",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group E)",
+        "group": "U13"
+    },
+    {
+        "date": "2024-09-28",
         "home_team": "Lee Man",
         "away_team": "Lucky Mile",
         "match_time": "16:15",
@@ -152,6 +207,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2024-09-29",
+        "home_team": "North District",
+        "away_team": "HKFC",
+        "match_time": "15:00",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
+        "group": "U13"
     },
     {
         "date": "2024-10-04",
@@ -185,6 +251,39 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2024-10-05",
+        "home_team": "Ravia Sport Association",
+        "away_team": "HKFC",
+        "match_time": "18:30",
+        "venue": "Kwong Fuk Football Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
+        "group": "U13"
+    },
+    {
+        "date": "2024-10-05",
+        "home_team": "Hoi King",
+        "away_team": "HKFC",
+        "match_time": "20:00",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group A)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-10-06",
+        "home_team": "Tsuen Wan",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group E)",
+        "group": "U13"
     },
     {
         "date": "2024-10-06",
