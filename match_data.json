@@ -78,6 +78,17 @@
     },
     {
         "date": "2024-09-20",
+        "home_team": "LCFC",
+        "away_team": "Lucky Mile",
+        "match_time": "18:30",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group F)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-09-20",
         "home_team": "HKFC",
         "away_team": "Konter",
         "match_time": "18:45",
@@ -218,6 +229,17 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
         "group": "U13"
+    },
+    {
+        "date": "2024-10-04",
+        "home_team": "Sai Kung",
+        "away_team": "Lucky Mile",
+        "match_time": "18:30",
+        "venue": "Sha Tin Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group F)",
+        "group": "U18"
     },
     {
         "date": "2024-10-04",
