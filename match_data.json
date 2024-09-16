@@ -1,16 +1,5 @@
 [
     {
-        "date": "2024-09-08",
-        "home_team": "HKFC",
-        "away_team": "Lucky Mile",
-        "match_time": "13:30",
-        "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "4",
-        "away_score": "0",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
-        "group": "U14"
-    },
-    {
         "date": "2024-09-13",
         "home_team": "Eastern",
         "away_team": "HKFC",
@@ -251,6 +240,61 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2024-10-26",
+        "home_team": "BC Rangers",
+        "away_team": "HKFC",
+        "match_time": "15:00",
+        "venue": "Tai Po Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Senior Shield",
+        "group": ""
+    },
+    {
+        "date": "2024-10-26",
+        "home_team": "HKFC",
+        "away_team": "Lee Man",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-10-26",
+        "home_team": "Lucky Mile",
+        "away_team": "Kitchee",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-11-01",
+        "home_team": "Kitchee",
+        "away_team": "Lucky Mile",
+        "match_time": "18:45",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
+        "group": "U16"
+    },
+    {
+        "date": "2024-11-01",
+        "home_team": "HKFC",
+        "away_team": "BC Rangers",
+        "match_time": "18:45",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
+        "group": "U16"
     },
     {
         "date": "2024-11-01",
