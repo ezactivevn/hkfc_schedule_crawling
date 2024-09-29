@@ -192,8 +192,8 @@
         "away_team": "Lucky Mile",
         "match_time": "15:00",
         "venue": "Kwu Tung Grass Pitch",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "3",
         "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group E)",
         "group": "U13"
     },
@@ -203,8 +203,8 @@
         "away_team": "Lucky Mile",
         "match_time": "16:15",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
     },
