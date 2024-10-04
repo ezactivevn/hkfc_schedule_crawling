@@ -236,8 +236,8 @@
         "away_team": "HKFC",
         "match_time": "20:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "1",
         "tournament": "HKPL U-22 League",
         "group": ""
     },
