@@ -429,6 +429,50 @@
         "group": "U18"
     },
     {
+        "date": "2024-10-18",
+        "home_team": "Tuen Mun",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Tin Shui Wai Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - League B)",
+        "group": "U16"
+    },
+    {
+        "date": "2024-10-18",
+        "home_team": "Tuen Mun",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group F)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-10-18",
+        "home_team": "HKFC",
+        "away_team": "Sham Shui Po",
+        "match_time": "20:30",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - League A)",
+        "group": "U16"
+    },
+    {
+        "date": "2024-10-18",
+        "home_team": "Tuen Mun F.C.",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group A)",
+        "group": "U18"
+    },
+    {
         "date": "2024-10-19",
         "home_team": "BC Rangers",
         "away_team": "Lucky Mile",
