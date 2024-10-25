@@ -627,6 +627,17 @@
         "group": "U14"
     },
     {
+        "date": "2024-10-27",
+        "home_team": "Lucky Mile",
+        "away_team": "RCFC",
+        "match_time": "15:00",
+        "venue": "Wo Yi Hop Road Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group E)",
+        "group": "U13"
+    },
+    {
         "date": "2024-11-01",
         "home_team": "Kitchee",
         "away_team": "Lucky Mile",
@@ -792,6 +803,17 @@
         "group": "U16"
     },
     {
+        "date": "2024-11-10",
+        "home_team": "Yee Ka Football Academy",
+        "away_team": "Lucky Mile",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
         "date": "2024-11-12",
         "home_team": "HKFC [Women youth]",
         "away_team": "Lucky Mile [Women Youth]",
@@ -869,6 +891,17 @@
         "group": "U18"
     },
     {
+        "date": "2024-11-16",
+        "home_team": "HKFC",
+        "away_team": "Southern",
+        "match_time": "18:30",
+        "venue": "Kwong Fuk Football Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
         "date": "2024-11-17",
         "home_team": "TSL FC [Women youth]",
         "away_team": "HKFC [Women youth]",
@@ -924,17 +957,6 @@
         "group": "U16"
     },
     {
-        "date": "2024-11-24",
-        "home_team": "Lucky Mile",
-        "away_team": "Wan Chai",
-        "match_time": "14:00",
-        "venue": "Fanling Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U16 - League B)",
-        "group": "U16"
-    },
-    {
         "date": "2024-11-29",
         "home_team": "Kitchee",
         "away_team": "HKFC",
@@ -966,6 +988,28 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
+    },
+    {
+        "date": "2024-12-06",
+        "home_team": "Lucky Mile",
+        "away_team": "ERSA",
+        "match_time": "18:45",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-07",
+        "home_team": "Yee Ka Football Academy",
+        "away_team": "HKFC",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
     },
     {
         "date": "2024-12-10",
@@ -1034,6 +1078,17 @@
         "group": "U16"
     },
     {
+        "date": "2025-01-18",
+        "home_team": "HKFC",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
         "date": "2025-02-07",
         "home_team": "HKFC",
         "away_team": "Wong Tai Sin",
@@ -1054,6 +1109,28 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U16 - League B)",
         "group": "U16"
+    },
+    {
+        "date": "2025-02-15",
+        "home_team": "Lucky Mile",
+        "away_team": "North District",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-02-15",
+        "home_team": "HKFC",
+        "away_team": "Man Lap Sports Club",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
     },
     {
         "date": "2025-02-28",
