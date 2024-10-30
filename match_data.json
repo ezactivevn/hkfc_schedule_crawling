@@ -473,6 +473,61 @@
         "group": "U18"
     },
     {
+        "date": "2024-10-19",
+        "home_team": "BC Rangers",
+        "away_team": "Lucky Mile",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "0",
+        "away_score": "2",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-10-20",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "1",
+        "away_score": "1",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2024-10-20",
+        "home_team": "Eastern District",
+        "away_team": "HKFC",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "0",
+        "away_score": "5",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-10-22",
+        "home_team": "WSE [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "19:00",
+        "venue": "Causeway Bay SG",
+        "home_score": "0",
+        "away_score": "9",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-10-22",
+        "home_team": "United Citizen [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "19:00",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "14",
+        "away_score": "0",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
         "date": "2024-10-23",
         "home_team": "Tai Po U-22",
         "away_team": "HKFC U-22",
