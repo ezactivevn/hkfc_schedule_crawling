@@ -687,8 +687,8 @@
         "away_team": "Eastern",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U13 - League A Rd.1)",
         "group": "U13"
     },
@@ -698,8 +698,8 @@
         "away_team": "Lucky Mile",
         "match_time": "18:30",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "3",
         "tournament": "Jockey Club Youth Football League (U16 - League B)",
         "group": "U16"
     },
@@ -720,8 +720,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:00",
         "venue": "Kwong Fuk Football Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "8",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": "U13"
     },
@@ -731,8 +731,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:00",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U18 - League B)",
         "group": "U18"
     },
@@ -1153,28 +1153,6 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
-    },
-    {
-        "date": "2024-12-06",
-        "home_team": "Lucky Mile",
-        "away_team": "ERSA",
-        "match_time": "18:45",
-        "venue": "Wong Chuk Hang RG",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U14 - League B)",
-        "group": "U14"
-    },
-    {
-        "date": "2024-12-07",
-        "home_team": "Yee Ka Football Academy",
-        "away_team": "HKFC",
-        "match_time": "11:00",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U14 - League B)",
-        "group": "U14"
     },
     {
         "date": "2024-12-10",
