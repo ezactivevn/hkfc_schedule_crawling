@@ -1123,6 +1123,17 @@
     },
     {
         "date": "2024-12-01",
+        "home_team": "Lucky Mile",
+        "away_team": "RCFC",
+        "match_time": "09:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-01",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "TSL FC [Women youth]",
         "match_time": "16:15",
