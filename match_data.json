@@ -1067,6 +1067,17 @@
         "group": "U13"
     },
     {
+        "date": "2024-11-23",
+        "home_team": "HKFC",
+        "away_team": "Eastern District",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
         "date": "2024-11-24",
         "home_team": "Lucky Mile",
         "away_team": "Wan Chai",
@@ -1134,6 +1145,17 @@
     },
     {
         "date": "2024-12-01",
+        "home_team": "Lucky Mile",
+        "away_team": "HKFC",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-01",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "TSL FC [Women youth]",
         "match_time": "16:15",
@@ -1185,6 +1207,28 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-07",
+        "home_team": "Kitchee",
+        "away_team": "Lucky Mile",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-07",
+        "home_team": "HKFC",
+        "away_team": "Eastern",
+        "match_time": "20:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
     {
@@ -1254,6 +1298,28 @@
         "group": "U18"
     },
     {
+        "date": "2024-12-15",
+        "home_team": "Lee Man",
+        "away_team": "HKFC",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-12-15",
+        "home_team": "Lucky Mile",
+        "away_team": "BC Rangers",
+        "match_time": "15:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
         "date": "2024-12-18",
         "home_team": "Eastern U-22",
         "away_team": "HKFC U-22",
@@ -1320,6 +1386,17 @@
         "group": "U15"
     },
     {
+        "date": "2025-01-04",
+        "home_team": "Lee Man",
+        "away_team": "Lucky Mile",
+        "match_time": "14:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
         "date": "2025-01-05",
         "home_team": "HKFC [Women youth]",
         "away_team": "MLFA [Women youth]",
@@ -1354,6 +1431,17 @@
     },
     {
         "date": "2025-01-11",
+        "home_team": "Eastern District",
+        "away_team": "Lucky Mile",
+        "match_time": "14:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-01-11",
         "home_team": "HKFC",
         "away_team": "Kwai Tsing",
         "match_time": "20:00",
@@ -1383,6 +1471,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-01-18",
+        "home_team": "HKFC",
+        "away_team": "Kitchee",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
     {
@@ -1431,6 +1530,17 @@
     },
     {
         "date": "2025-02-08",
+        "home_team": "Lucky Mile",
+        "away_team": "Eastern",
+        "match_time": "14:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-02-08",
         "home_team": "ERSA",
         "away_team": "HKFC",
         "match_time": "15:00",
@@ -1439,6 +1549,17 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U13 - League A Rd.1)",
         "group": "U13"
+    },
+    {
+        "date": "2025-02-09",
+        "home_team": "BC Rangers",
+        "away_team": "HKFC",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
     },
     {
         "date": "2025-02-14",
@@ -1485,6 +1606,39 @@
         "group": "U13"
     },
     {
+        "date": "2025-02-15",
+        "home_team": "Lucky Mile",
+        "away_team": "Lee Man",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-02-16",
+        "home_team": "Eastern District",
+        "away_team": "HKFC",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-02-22",
+        "home_team": "HKFC",
+        "away_team": "Lucky Mile",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
         "date": "2025-02-28",
         "home_team": "Sha Tin",
         "away_team": "HKFC",
@@ -1516,6 +1670,28 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U13 - League A Rd.1)",
         "group": "U13"
+    },
+    {
+        "date": "2025-03-01",
+        "home_team": "Lucky Mile",
+        "away_team": "Kitchee",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-03-02",
+        "home_team": "Eastern",
+        "away_team": "HKFC",
+        "match_time": "15:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
     },
     {
         "date": "2025-03-07",
@@ -1574,6 +1750,17 @@
     },
     {
         "date": "2025-03-15",
+        "home_team": "BC Rangers",
+        "away_team": "Lucky Mile",
+        "match_time": "14:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-03-15",
         "home_team": "HKFC",
         "away_team": "Tai Po",
         "match_time": "19:00",
@@ -1582,6 +1769,17 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U16 - League A)",
         "group": "U16"
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "HKFC",
+        "away_team": "Lee Man",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
     },
     {
         "date": "2025-03-16",
@@ -1593,6 +1791,28 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": "U13"
+    },
+    {
+        "date": "2025-03-22",
+        "home_team": "Lucky Mile",
+        "away_team": "Eastern District",
+        "match_time": "20:30",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-03-29",
+        "home_team": "Kitchee",
+        "away_team": "HKFC",
+        "match_time": "18:45",
+        "venue": "Jockey Club Kitchee Centre No.2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
     },
     {
         "date": "2025-03-29",
@@ -1626,5 +1846,27 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U16 - League B)",
         "group": "U16"
+    },
+    {
+        "date": "2025-04-13",
+        "home_team": "Eastern",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-04-13",
+        "home_team": "HKFC",
+        "away_team": "BC Rangers",
+        "match_time": "15:30",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
     }
 ]
