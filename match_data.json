@@ -429,50 +429,6 @@
         "group": "U18"
     },
     {
-        "date": "2024-10-18",
-        "home_team": "Tuen Mun",
-        "away_team": "Lucky Mile",
-        "match_time": "19:00",
-        "venue": "Tin Shui Wai Sports Ground",
-        "home_score": "2",
-        "away_score": "0",
-        "tournament": "Jockey Club Youth Football League (U16 - League B)",
-        "group": "U16"
-    },
-    {
-        "date": "2024-10-18",
-        "home_team": "Tuen Mun",
-        "away_team": "Lucky Mile",
-        "match_time": "19:00",
-        "venue": "Wu Shan Recreation Playground",
-        "home_score": "2",
-        "away_score": "3",
-        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group F)",
-        "group": "U18"
-    },
-    {
-        "date": "2024-10-18",
-        "home_team": "HKFC",
-        "away_team": "Sham Shui Po",
-        "match_time": "20:30",
-        "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "3",
-        "away_score": "2",
-        "tournament": "Jockey Club Youth Football League (U16 - League A)",
-        "group": "U16"
-    },
-    {
-        "date": "2024-10-18",
-        "home_team": "Tuen Mun F.C.",
-        "away_team": "HKFC",
-        "match_time": "20:30",
-        "venue": "Wu Shan Recreation Playground",
-        "home_score": "0",
-        "away_score": "8",
-        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group A)",
-        "group": "U18"
-    },
-    {
         "date": "2024-10-19",
         "home_team": "BC Rangers",
         "away_team": "Lucky Mile",
@@ -830,8 +786,8 @@
         "away_team": "HKFC",
         "match_time": "11:00",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U13 - League A Rd.1)",
         "group": "U13"
     },
@@ -841,8 +797,8 @@
         "away_team": "HKFC [Women youth]",
         "match_time": "11:15",
         "venue": "Happy Valley Recreation Ground #3",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "21",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -852,8 +808,8 @@
         "away_team": "Sha Tin",
         "match_time": "18:30",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U16 - League A)",
         "group": "U16"
     },
@@ -863,8 +819,8 @@
         "away_team": "Central & Western",
         "match_time": "20:00",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U18 - League B)",
         "group": "U18"
     },
