@@ -1331,6 +1331,39 @@
         "group": ""
     },
     {
+        "date": "2024-12-20",
+        "home_team": "Sham Shui Po",
+        "away_team": "HKFC",
+        "match_time": "19:00",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - League A)",
+        "group": "U16"
+    },
+    {
+        "date": "2024-12-21",
+        "home_team": "HKFC",
+        "away_team": "GFC",
+        "match_time": "20:30",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - League A)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-12-22",
+        "home_team": "WSE [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "12:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
         "date": "2024-12-29",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "Shatin [Women youth]",
