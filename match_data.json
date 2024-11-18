@@ -984,8 +984,8 @@
         "away_team": "HKFC [Women youth]",
         "match_time": "14:45",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "2",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -995,8 +995,8 @@
         "away_team": "Kitchee [Women youth]",
         "match_time": "16:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "5",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
