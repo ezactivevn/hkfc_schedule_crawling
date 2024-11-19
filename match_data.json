@@ -1025,6 +1025,17 @@
     {
         "date": "2024-11-22",
         "home_team": "HKFC",
+        "away_team": "Kwoon Chung Southern",
+        "match_time": "18:45",
+        "venue": "Kwong Fuk Park Football Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League First Stage Playoff",
+        "group": ""
+    },
+    {
+        "date": "2024-11-22",
+        "home_team": "HKFC",
         "away_team": "Southern",
         "match_time": "19:00",
         "venue": "Happy Valley Recreation Ground #1",
@@ -1104,7 +1115,7 @@
         "home_team": "Kitchee",
         "away_team": "HKFC",
         "match_time": "20:30",
-        "venue": "Ma On Shan Recreation Ground",
+        "venue": "Shek Kip Mei Park",
         "home_score": "",
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
