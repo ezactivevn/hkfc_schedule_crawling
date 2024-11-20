@@ -423,8 +423,8 @@
         "away_team": "Kitchee [Women youth]",
         "match_time": "21:00",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "3",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
     },
@@ -1006,8 +1006,8 @@
         "away_team": "WSE [Women youth]",
         "match_time": "19:00",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "1",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
     },
