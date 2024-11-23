@@ -1028,8 +1028,8 @@
         "away_team": "Kwoon Chung Southern",
         "match_time": "18:45",
         "venue": "Kwong Fuk Park Football Pitch",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League First Stage Playoff",
         "group": ""
     },
@@ -1039,8 +1039,8 @@
         "away_team": "Southern",
         "match_time": "19:00",
         "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "0",
         "tournament": "Jockey Club Youth Football League (U16 - League A)",
         "group": "U16"
     },
@@ -1050,8 +1050,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:30",
         "venue": "Ma On Shan Sports Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "3",
         "tournament": "Jockey Club Youth Football League (U18 - League B)",
         "group": "U18"
     },
