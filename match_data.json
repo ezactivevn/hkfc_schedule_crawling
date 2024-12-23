@@ -1435,8 +1435,8 @@
         "away_team": "HKFC [Women youth]",
         "match_time": "12:15",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "12",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -1670,39 +1670,6 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
-    },
-    {
-        "date": "2025-01-17",
-        "home_team": "South China",
-        "away_team": "Lucky Mile",
-        "match_time": "18:45",
-        "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
-        "group": "U16"
-    },
-    {
-        "date": "2025-01-17",
-        "home_team": "South China",
-        "away_team": "Lucky Mile",
-        "match_time": "20:45",
-        "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-01-18",
-        "home_team": "HKFC",
-        "away_team": "Lucky Mile",
-        "match_time": "13:30",
-        "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U14 - League B)",
-        "group": "U14"
     },
     {
         "date": "2025-01-18",
