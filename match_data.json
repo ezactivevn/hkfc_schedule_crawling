@@ -1468,8 +1468,8 @@
         "away_team": "Kitchee",
         "match_time": "18:45",
         "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "7",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -1479,8 +1479,8 @@
         "away_team": "Lucky Mile",
         "match_time": "18:45",
         "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -1501,8 +1501,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:45",
         "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "5",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
     },
@@ -1574,17 +1574,6 @@
     },
     {
         "date": "2025-01-10",
-        "home_team": "HKFC [Women youth]",
-        "away_team": "United Citizen [Women youth]",
-        "match_time": "07:00",
-        "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-01-10",
         "home_team": "Lee Man",
         "away_team": "HKFC",
         "match_time": "18:45",
@@ -1604,6 +1593,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
+    },
+    {
+        "date": "2025-01-10",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "United Citizen [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
     },
     {
         "date": "2025-01-10",
