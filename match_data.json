@@ -1870,6 +1870,17 @@
         "group": "U18"
     },
     {
+        "date": "2025-02-07",
+        "home_team": "HKFC",
+        "away_team": "Kitchee",
+        "match_time": "20:45",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
+        "group": "U18"
+    },
+    {
         "date": "2025-02-08",
         "home_team": "Lucky Mile",
         "away_team": "Eastern",
@@ -2671,6 +2682,17 @@
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U18 - League A)",
         "group": "U18"
+    },
+    {
+        "date": "2025-04-25",
+        "home_team": "HKFC",
+        "away_team": "Kwai Tsing",
+        "match_time": "20:30",
+        "venue": "Ma On Shan Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - League A)",
+        "group": "U16"
     },
     {
         "date": "2025-04-25",
