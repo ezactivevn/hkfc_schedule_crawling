@@ -1710,8 +1710,8 @@
         "away_team": "Lucky Mile",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U14 - League B)",
         "group": "U14"
     },
@@ -1721,8 +1721,8 @@
         "away_team": "Kitchee",
         "match_time": "18:45",
         "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "6",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
