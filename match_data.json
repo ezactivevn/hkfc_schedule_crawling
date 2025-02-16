@@ -2040,8 +2040,8 @@
         "away_team": "North District",
         "match_time": "11:00",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U14 - League B)",
         "group": "U14"
     },
@@ -2051,8 +2051,8 @@
         "away_team": "Man Lap Sports Club",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "12",
+        "away_score": "0",
         "tournament": "Jockey Club Youth Football League (U14 - League B)",
         "group": "U14"
     },
@@ -2062,8 +2062,8 @@
         "away_team": "Lucky Mile",
         "match_time": "13:30",
         "venue": "Kwu Tung Grass Pitch",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "2",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
         "group": "U13"
     },
@@ -2073,8 +2073,8 @@
         "away_team": "Lee Man",
         "match_time": "20:30",
         "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
