@@ -2084,8 +2084,8 @@
         "away_team": "MLFA [Women youth]",
         "match_time": "11:15",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "5",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -2095,8 +2095,8 @@
         "away_team": "HKFC",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
