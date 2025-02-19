@@ -2718,6 +2718,17 @@
     },
     {
         "date": "2025-04-13",
+        "home_team": "Lucky Mile",
+        "away_team": "North District",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-04-13",
         "home_team": "Eastern",
         "away_team": "Lucky Mile",
         "match_time": "13:30",
@@ -2827,6 +2838,28 @@
         "group": "U18"
     },
     {
+        "date": "2025-04-26",
+        "home_team": "Lucky Mile",
+        "away_team": "Southern",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-04-26",
+        "home_team": "HKFC",
+        "away_team": "ERSA",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - League B)",
+        "group": "U14"
+    },
+    {
         "date": "2025-04-27",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "HKFC [Women youth]",
@@ -2847,6 +2880,17 @@
         "away_score": "",
         "tournament": "Second Division League (Championship Group)",
         "group": ""
+    },
+    {
+        "date": "2025-05-03",
+        "home_team": "Tuen Mun",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": "U13"
     },
     {
         "date": "2025-05-04",
