@@ -2872,6 +2872,17 @@
     },
     {
         "date": "2025-04-27",
+        "home_team": "Lee Man",
+        "away_team": "HKFC",
+        "match_time": "15:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-04-27",
         "home_team": "Supreme Football Club",
         "away_team": "Lucky Mile",
         "match_time": "17:30",
