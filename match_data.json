@@ -209,6 +209,61 @@
         "group": "U14"
     },
     {
+        "date": "2024-09-29",
+        "home_team": "BC Rangers",
+        "away_team": "HKFC",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "6",
+        "away_score": "2",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2024-09-29",
+        "home_team": "North District",
+        "away_team": "HKFC",
+        "match_time": "15:00",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "0",
+        "away_score": "9",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
+        "group": "U13"
+    },
+    {
+        "date": "2024-10-02",
+        "home_team": "KC Southern U-22",
+        "away_team": "HKFC U-22",
+        "match_time": "20:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
+        "home_score": "0",
+        "away_score": "1",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2024-10-04",
+        "home_team": "Sai Kung",
+        "away_team": "Lucky Mile",
+        "match_time": "18:30",
+        "venue": "Sha Tin Sports Ground",
+        "home_score": "0",
+        "away_score": "7",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group F)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-10-04",
+        "home_team": "HKFC",
+        "away_team": "Lucky Mile",
+        "match_time": "18:45",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "0",
+        "away_score": "0",
+        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
+        "group": "U16"
+    },
+    {
         "date": "2024-10-04",
         "home_team": "HKFC",
         "away_team": "Lucky Mile",
@@ -2227,8 +2282,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "19:00",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "6",
+        "away_score": "0",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
     },
@@ -2477,6 +2532,17 @@
     {
         "date": "2025-03-15",
         "home_team": "HKFC",
+        "away_team": "Kitchee",
+        "match_time": "20:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League U13 (League A Rd.2 Championship Group)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "HKFC",
         "away_team": "Lee Man",
         "match_time": "20:30",
         "venue": "Jockey Club Kitchee Centre No.2",
@@ -2550,6 +2616,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
+    },
+    {
+        "date": "2025-03-28",
+        "home_team": "BC Rangers",
+        "away_team": "HKFC",
+        "match_time": "18:45",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League U13 (League A Rd.2 Championship Group)",
+        "group": "U13"
     },
     {
         "date": "2025-03-28",
@@ -2828,6 +2905,17 @@
     },
     {
         "date": "2025-04-27",
+        "home_team": "United Kingdom Football Academy",
+        "away_team": "HKFC",
+        "match_time": "09:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League U13 (League A Rd.2 Championship Group)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-04-27",
         "home_team": "Lee Man",
         "away_team": "HKFC",
         "match_time": "15:30",
@@ -2857,6 +2945,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U13 - League C)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-05-03",
+        "home_team": "HKFC",
+        "away_team": "Eastern",
+        "match_time": "20:00",
+        "venue": "Morse Park #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League U13 (League A Rd.2 Championship Group)",
         "group": "U13"
     },
     {
