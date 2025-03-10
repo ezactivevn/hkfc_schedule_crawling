@@ -2392,8 +2392,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "2",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -2403,8 +2403,8 @@
         "away_team": "Kwun Tong",
         "match_time": "13:30",
         "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "1",
         "tournament": "Second Division League (Championship Group)",
         "group": ""
     },
@@ -2414,8 +2414,8 @@
         "away_team": "Shatin [Women youth]",
         "match_time": "15:30",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "18",
+        "away_score": "0",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
