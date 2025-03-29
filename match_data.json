@@ -2612,8 +2612,8 @@
         "away_team": "HKFC",
         "match_time": "18:45",
         "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "2",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -2634,8 +2634,8 @@
         "away_team": "HKFC",
         "match_time": "20:45",
         "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "2",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
     },
