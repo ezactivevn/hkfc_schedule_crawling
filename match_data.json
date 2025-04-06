@@ -2711,8 +2711,8 @@
         "away_team": "HKFC",
         "match_time": "19:00",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "3",
         "tournament": "Jockey Club Youth Football League (U16 - League A)",
         "group": "U16"
     },
@@ -2722,8 +2722,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:30",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U16 - League B)",
         "group": "U16"
     },
