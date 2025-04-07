@@ -2733,8 +2733,8 @@
         "away_team": "TSL FC [Women youth]",
         "match_time": "11:15",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "1",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -2744,8 +2744,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "14:45",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "0",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
