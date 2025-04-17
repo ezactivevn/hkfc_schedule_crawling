@@ -330,6 +330,28 @@
         "group": "U14"
     },
     {
+        "date": "2024-10-11",
+        "home_team": "Yuen Long",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Tin Yip Road Park",
+        "home_score": "1",
+        "away_score": "3",
+        "tournament": "Jockey Club Youth Football League (U18 Group Stage - Group A)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-10-12",
+        "home_team": "HKFC",
+        "away_team": "Wing Go",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "7",
+        "away_score": "2",
+        "tournament": "Jockey Club Youth Football League (U13 Group Stage - Group A)",
+        "group": "U13"
+    },
+    {
         "date": "2024-10-13",
         "home_team": "United Citizen [Women youth]",
         "away_team": "Lucky Mile [Women Youth]",
@@ -2777,8 +2799,8 @@
         "away_team": "South China",
         "match_time": "18:45",
         "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
