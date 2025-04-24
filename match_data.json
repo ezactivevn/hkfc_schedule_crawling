@@ -2832,8 +2832,8 @@
         "away_team": "Lucky Mile",
         "match_time": "18:45",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "6",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
@@ -2843,8 +2843,8 @@
         "away_team": "Tai Po U-22",
         "match_time": "20:45",
         "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "2",
         "tournament": "HKPL U-22 League",
         "group": ""
     },
