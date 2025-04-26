@@ -1507,72 +1507,6 @@
         "group": "U18"
     },
     {
-        "date": "2025-01-04",
-        "home_team": "Lee Man",
-        "away_team": "Lucky Mile",
-        "match_time": "14:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
-    },
-    {
-        "date": "2025-01-05",
-        "home_team": "HKFC [Women youth]",
-        "away_team": "MLFA [Women youth]",
-        "match_time": "11:15",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "4",
-        "away_score": "0",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": "U15"
-    },
-    {
-        "date": "2025-01-05",
-        "home_team": "WSE [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "11:15",
-        "venue": "Morse Park #1",
-        "home_score": "0",
-        "away_score": "9",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": "U15"
-    },
-    {
-        "date": "2025-01-07",
-        "home_team": "HKFC [Women youth]",
-        "away_team": "TSL FC [Women youth]",
-        "match_time": "19:00",
-        "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "4",
-        "away_score": "2",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-01-07",
-        "home_team": "Kitchee [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "19:00",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "22",
-        "away_score": "0",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-01-08",
-        "home_team": "HKFC U-22",
-        "away_team": "Kitchee U-22",
-        "match_time": "18:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
-        "home_score": "1",
-        "away_score": "3",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
         "date": "2025-01-10",
         "home_team": "Lee Man",
         "away_team": "HKFC",
@@ -2183,8 +2117,8 @@
         "away_team": "Lucky Mile",
         "match_time": "18:45",
         "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "1",
-        "away_score": "2",
+        "home_score": "3",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -2854,8 +2788,8 @@
         "away_team": "Lucky Mile",
         "match_time": "18:45",
         "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -2865,8 +2799,8 @@
         "away_team": "BC Rangers",
         "match_time": "18:45",
         "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "6",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.2)",
         "group": "U16"
     },
@@ -2898,8 +2832,8 @@
         "away_team": "HKFC",
         "match_time": "20:45",
         "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
     },
@@ -2909,8 +2843,8 @@
         "away_team": "Eastern",
         "match_time": "20:45",
         "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "0",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
         "group": "U18"
     },
