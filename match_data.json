@@ -979,6 +979,50 @@
         "group": "U14"
     },
     {
+        "date": "2024-11-17",
+        "home_team": "TSL FC [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "14:45",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "1",
+        "away_score": "2",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2024-11-17",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Kitchee [Women youth]",
+        "match_time": "16:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "0",
+        "away_score": "5",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2024-11-19",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "WSE [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "3",
+        "away_score": "1",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2024-11-20",
+        "home_team": "North District U-22",
+        "away_team": "HKFC U-22",
+        "match_time": "20:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
+        "home_score": "3",
+        "away_score": "3",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2024-11-22",
         "home_team": "HKFC",
         "away_team": "Kwoon Chung Southern",
@@ -2101,39 +2145,6 @@
         "group": "U18"
     },
     {
-        "date": "2025-02-22",
-        "home_team": "HKFC",
-        "away_team": "Lucky Mile",
-        "match_time": "20:30",
-        "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "1",
-        "away_score": "2",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
-        "group": "U14"
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Lucky Mile [Women Youth]",
-        "away_team": "Shatin [Women youth]",
-        "match_time": "11:15",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "8",
-        "away_score": "1",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": "U15"
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Lucky Mile",
-        "away_team": "Fu Moon",
-        "match_time": "17:15",
-        "venue": "HK Football Club Ground",
-        "home_score": "4",
-        "away_score": "2",
-        "tournament": "Second Division League (Championship Group)",
-        "group": ""
-    },
-    {
         "date": "2025-02-28",
         "home_team": "HKFC",
         "away_team": "Lucky Mile",
@@ -3041,8 +3052,8 @@
         "away_team": "Lucky Mile",
         "match_time": "20:30",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U18 - League B)",
         "group": "U18"
     },
