@@ -1,1 +1,167 @@
-[]
+[
+    {
+        "date": "2025-09-07",
+        "home_team": "Supreme Football Club",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Tin Yip Road Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-09-14",
+        "home_team": "Lucky Mile",
+        "away_team": "Tung Sing",
+        "match_time": "13:30",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-09-21",
+        "home_team": "Sham Shui Po",
+        "away_team": "Lucky Mile",
+        "match_time": "15:00",
+        "venue": "Po Kong Village Road Park Pitch #1 (A-TURF)",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-09-27",
+        "home_team": "Eastern",
+        "away_team": "HKFC",
+        "match_time": "15:00",
+        "venue": "Tai Po Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Senior Shield",
+        "group": ""
+    },
+    {
+        "date": "2025-09-28",
+        "home_team": "Lucky Mile",
+        "away_team": "RCFC",
+        "match_time": "16:45",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-10-12",
+        "home_team": "Lucky Mile",
+        "away_team": "Kwun Tong",
+        "match_time": "18:30",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-10-19",
+        "home_team": "Central & Western",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-10-26",
+        "home_team": "Lucky Mile",
+        "away_team": "WSE",
+        "match_time": "16:45",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-11-02",
+        "home_team": "South China",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Ma On Shan Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-11-15",
+        "home_team": "HKFC",
+        "away_team": "(To Be Confirmed)",
+        "match_time": "15:00",
+        "venue": "Mongkok Stadium",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "League Cup",
+        "group": ""
+    },
+    {
+        "date": "2025-11-16",
+        "home_team": "Best Union Yuen Long",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Tin Yip Road Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-11-23",
+        "home_team": "Lucky Mile",
+        "away_team": "Sha Tin",
+        "match_time": "16:45",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Citizen",
+        "away_team": "Lucky Mile",
+        "match_time": "15:30",
+        "venue": "Ma On Shan Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-12-07",
+        "home_team": "Hoi King",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-12-21",
+        "home_team": "Lucky Mile",
+        "away_team": "Bright Cerulean Football Club",
+        "match_time": "16:45",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    }
+]
