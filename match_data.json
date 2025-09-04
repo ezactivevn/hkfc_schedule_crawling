@@ -33,6 +33,17 @@
         "group": ""
     },
     {
+        "date": "2025-09-24",
+        "home_team": "Tai Po",
+        "away_team": "HKFC",
+        "match_time": "18:45",
+        "venue": "Tin Yip Road Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2025-09-27",
         "home_team": "Eastern",
         "away_team": "HKFC",
@@ -52,6 +63,28 @@
         "home_score": "",
         "away_score": "",
         "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-09-30",
+        "home_team": "HKFC",
+        "away_team": "BC Rangers",
+        "match_time": "19:00",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2025-10-07",
+        "home_team": "HKFC",
+        "away_team": "Eastern District",
+        "match_time": "19:00",
+        "venue": "Siu Sai Wan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
         "group": ""
     },
     {
@@ -77,6 +110,17 @@
         "group": ""
     },
     {
+        "date": "2025-10-20",
+        "home_team": "Kowloon City",
+        "away_team": "HKFC",
+        "match_time": "20:45",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2025-10-26",
         "home_team": "Lucky Mile",
         "away_team": "WSE",
@@ -88,6 +132,17 @@
         "group": ""
     },
     {
+        "date": "2025-10-28",
+        "home_team": "HKFC",
+        "away_team": "Kwoon Chung Southern",
+        "match_time": "19:00",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2025-11-02",
         "home_team": "South China",
         "away_team": "Lucky Mile",
@@ -96,6 +151,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-11-12",
+        "home_team": "Kitchee",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
         "group": ""
     },
     {
@@ -132,6 +198,17 @@
         "group": ""
     },
     {
+        "date": "2025-11-24",
+        "home_team": "Golik North District",
+        "away_team": "HKFC",
+        "match_time": "20:45",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2025-11-30",
         "home_team": "Citizen",
         "away_team": "Lucky Mile",
@@ -154,6 +231,17 @@
         "group": ""
     },
     {
+        "date": "2025-12-16",
+        "home_team": "HKFC",
+        "away_team": "Lee Man",
+        "match_time": "19:00",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2025-12-21",
         "home_team": "Lucky Mile",
         "away_team": "Bright Cerulean Football Club",
@@ -162,6 +250,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2025-12-31",
+        "home_team": "Eastern",
+        "away_team": "HKFC",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
         "group": ""
     }
 ]
