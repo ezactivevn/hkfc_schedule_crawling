@@ -167,7 +167,7 @@
     {
         "date": "2025-11-15",
         "home_team": "HKFC",
-        "away_team": "(To Be Confirmed)",
+        "away_team": "Tai Po",
         "match_time": "15:00",
         "venue": "Mongkok Stadium",
         "home_score": "",
@@ -206,6 +206,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Citizen",
+        "away_team": "Lucky Mile",
+        "match_time": "15:30",
+        "venue": "Ma On Shan Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
         "group": ""
     },
     {
