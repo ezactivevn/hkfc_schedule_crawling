@@ -67,6 +67,28 @@
     },
     {
         "date": "2025-09-21",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "WSE [Women youth]",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-09-21",
+        "home_team": "Shatin [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "14:45",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-09-21",
         "home_team": "Sham Shui Po",
         "away_team": "Lucky Mile",
         "match_time": "15:00",
@@ -165,6 +187,17 @@
         "group": ""
     },
     {
+        "date": "2025-09-30",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "20:30",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
         "date": "2025-10-03",
         "home_team": "BC Rangers",
         "away_team": "Lucky Mile",
@@ -207,6 +240,28 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
         "group": "U18"
+    },
+    {
+        "date": "2025-10-05",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "WSE [Women youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-10-05",
+        "home_team": "Wan Chai [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "09:30",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
     },
     {
         "date": "2025-10-07",
@@ -221,6 +276,17 @@
     },
     {
         "date": "2025-10-12",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Wan Chai [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-10-12",
         "home_team": "Lucky Mile",
         "away_team": "Kwun Tong",
         "match_time": "18:30",
@@ -229,6 +295,17 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-10-19",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Citizen [Women youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
     },
     {
         "date": "2025-10-19",
@@ -253,72 +330,6 @@
         "group": ""
     },
     {
-        "date": "2025-10-19",
-        "home_team": "HKFC",
-        "away_team": "Lucky Mile",
-        "match_time": "20:00",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-10-20",
-        "home_team": "Kowloon City",
-        "away_team": "HKFC",
-        "match_time": "20:45",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2025-10-24",
-        "home_team": "BC Rangers",
-        "away_team": "HKFC",
-        "match_time": "18:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2025-10-24",
-        "home_team": "Lucky Mile",
-        "away_team": "Kitchee",
-        "match_time": "18:45",
-        "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2025-10-24",
-        "home_team": "BC Rangers",
-        "away_team": "HKFC",
-        "match_time": "20:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-10-24",
-        "home_team": "Lucky Mile",
-        "away_team": "Kitchee",
-        "match_time": "20:45",
-        "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
-        "group": "U18"
-    },
-    {
         "date": "2025-10-26",
         "home_team": "Lucky Mile",
         "away_team": "WSE",
@@ -339,6 +350,28 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
+    },
+    {
+        "date": "2025-10-28",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "TSL FC [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-10-28",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Citizen [Women youth]",
+        "match_time": "21:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
     },
     {
         "date": "2025-10-31",
@@ -386,6 +419,17 @@
     },
     {
         "date": "2025-11-02",
+        "home_team": "Kong City Football Club [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "13:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-11-02",
         "home_team": "South China",
         "away_team": "Lucky Mile",
         "match_time": "13:30",
@@ -396,6 +440,17 @@
         "group": ""
     },
     {
+        "date": "2025-11-04",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "MLFA [Women youth]",
+        "match_time": "18:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
         "date": "2025-11-07",
         "home_team": "HKFC",
         "away_team": "South China",
@@ -438,6 +493,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
         "group": "U18"
+    },
+    {
+        "date": "2025-11-09",
+        "home_team": "MLFA [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
     },
     {
         "date": "2025-11-12",
@@ -463,6 +529,28 @@
     },
     {
         "date": "2025-11-16",
+        "home_team": "TSL FC [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "09:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-11-16",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-11-16",
         "home_team": "Best Union Yuen Long",
         "away_team": "Lucky Mile",
         "match_time": "13:30",
@@ -471,6 +559,39 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-11-18",
+        "home_team": "MLFA [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "20:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-11-23",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "TSL FC [Women youth]",
+        "match_time": "13:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-11-23",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "MLFA [Women youth]",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
     },
     {
         "date": "2025-11-23",
@@ -495,6 +616,39 @@
         "group": ""
     },
     {
+        "date": "2025-11-25",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "18:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Citizen [Women youth]",
+        "match_time": "14:45",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
         "date": "2025-11-30",
         "home_team": "Citizen",
         "away_team": "Lucky Mile",
@@ -517,6 +671,39 @@
         "group": ""
     },
     {
+        "date": "2025-12-09",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "WSE [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-09",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Kitchee [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-14",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "11:15",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
         "date": "2025-12-16",
         "home_team": "HKFC",
         "away_team": "Lee Man",
@@ -526,6 +713,17 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
+    },
+    {
+        "date": "2025-12-16",
+        "home_team": "Citizen [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
     },
     {
         "date": "2025-12-21",
