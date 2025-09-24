@@ -353,6 +353,17 @@
     },
     {
         "date": "2025-10-12",
+        "home_team": "Eastern",
+        "away_team": "HKFC",
+        "match_time": "17:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2025-10-12",
         "home_team": "Lucky Mile",
         "away_team": "Kwun Tong",
         "match_time": "18:30",
@@ -858,6 +869,39 @@
         "group": ""
     },
     {
+        "date": "2025-11-24",
+        "home_team": "Golik North District",
+        "away_team": "HKFC",
+        "match_time": "20:45",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2025-11-25",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "18:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Kitchee [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "13:00",
+        "venue": "Happy Valley Recreation Ground #4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
         "date": "2025-11-30",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "Citizen [Women youth]",
@@ -954,17 +998,6 @@
         "home_score": "",
         "away_score": "",
         "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2025-12-31",
-        "home_team": "Eastern",
-        "away_team": "HKFC",
-        "match_time": "18:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
         "group": ""
     }
 ]
