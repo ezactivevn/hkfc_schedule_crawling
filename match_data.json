@@ -999,5 +999,16 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-12-31",
+        "home_team": "Eastern",
+        "away_team": "HKFC",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
     }
 ]
