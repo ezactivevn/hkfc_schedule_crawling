@@ -203,8 +203,8 @@
         "away_team": "BC Rangers",
         "match_time": "19:00",
         "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "1",
         "tournament": "HKPL U-22 League",
         "group": ""
     },
@@ -214,8 +214,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "20:30",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "14",
+        "away_score": "0",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
     },
@@ -276,6 +276,17 @@
     },
     {
         "date": "2025-10-04",
+        "home_team": "Konter",
+        "away_team": "Lucky Mile",
+        "match_time": "16:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - C League)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-10-04",
         "home_team": "HKFC",
         "away_team": "Kitchee",
         "match_time": "18:45",
@@ -323,7 +334,7 @@
         "home_team": "South China",
         "away_team": "HKFC",
         "match_time": "16:15",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
         "home_score": "",
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
