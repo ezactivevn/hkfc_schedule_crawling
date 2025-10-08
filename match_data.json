@@ -357,65 +357,10 @@
         "away_team": "Eastern District",
         "match_time": "19:00",
         "venue": "Siu Sai Wan Sports Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "HKPL U-22 League",
         "group": ""
-    },
-    {
-        "date": "2025-10-10",
-        "home_team": "HKFC",
-        "away_team": "South China",
-        "match_time": "18:45",
-        "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2025-10-10",
-        "home_team": "Konter",
-        "away_team": "Lucky Mile",
-        "match_time": "20:45",
-        "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2025-10-11",
-        "home_team": "South China",
-        "away_team": "HKFC",
-        "match_time": "16:15",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
-        "group": "U14"
-    },
-    {
-        "date": "2025-10-11",
-        "home_team": "Lucky Mile",
-        "away_team": "Lee Man",
-        "match_time": "20:30",
-        "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
-        "group": "U14"
-    },
-    {
-        "date": "2025-10-12",
-        "home_team": "Lucky Mile [Women Youth]",
-        "away_team": "Wan Chai [Women youth]",
-        "match_time": "11:15",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U15)",
-        "group": "U15"
     },
     {
         "date": "2025-10-12",
