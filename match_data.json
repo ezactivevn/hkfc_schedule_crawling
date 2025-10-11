@@ -368,9 +368,20 @@
         "away_team": "South China",
         "match_time": "18:45",
         "venue": "Shek Kip Mei Park",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-10",
+        "home_team": "Southern",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Sha Tin Sports Ground",
+        "home_score": "1",
+        "away_score": "2",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
         "group": "U16"
     },
     {
@@ -386,6 +397,17 @@
     },
     {
         "date": "2025-10-11",
+        "home_team": "Tsuen Wan Football Assn U14",
+        "away_team": "HKFC U14",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-10-11",
         "home_team": "South China",
         "away_team": "HKFC",
         "match_time": "16:15",
@@ -394,6 +416,28 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2025-10-11",
+        "home_team": "Lung Moon U13",
+        "away_team": "HKFC U13",
+        "match_time": "16:30",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-10-11",
+        "home_team": "Bright Cerulean Football Club",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
     },
     {
         "date": "2025-10-11",
@@ -407,6 +451,17 @@
         "group": "U14"
     },
     {
+        "date": "2025-10-11",
+        "home_team": "Sha Tin",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Causeway Bay SG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
         "date": "2025-10-12",
         "home_team": "Lucky Mile [Women Youth]",
         "away_team": "Wan Chai [Women youth]",
@@ -416,6 +471,28 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
+    },
+    {
+        "date": "2025-10-12",
+        "home_team": "Lucky Mile",
+        "away_team": "JC Sports",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - C League)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-10-12",
+        "home_team": "North District U14",
+        "away_team": "Lucky Mile U14",
+        "match_time": "13:30",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - B League)",
+        "group": "U14"
     },
     {
         "date": "2025-10-12",
@@ -438,6 +515,39 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-10-17",
+        "home_team": "Lucky Mile",
+        "away_team": "Wan Chai",
+        "match_time": "19:00",
+        "venue": "Kln. Tsai Park#1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-17",
+        "home_team": "Lucky Mile U18",
+        "away_team": "Wanchai U18",
+        "match_time": "20:30",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - B League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-10-18",
+        "home_team": "HKFC",
+        "away_team": "LFCIAHK",
+        "match_time": "19:00",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
     },
     {
         "date": "2025-10-19",
@@ -471,6 +581,17 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-10-19",
+        "home_team": "North District",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Kwu Tung Grass Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - C League)",
+        "group": "U13"
     },
     {
         "date": "2025-10-19",
@@ -540,6 +661,39 @@
     },
     {
         "date": "2025-10-24",
+        "home_team": "Wong Tai Sin (youth)",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Ma On Shan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-24",
+        "home_team": "HKFC",
+        "away_team": "Wing Go",
+        "match_time": "19:00",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-24",
+        "home_team": "HKFC",
+        "away_team": "Tuen Mun",
+        "match_time": "20:30",
+        "venue": "Ma On Shan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-10-24",
         "home_team": "BC Rangers",
         "away_team": "HKFC",
         "match_time": "20:45",
@@ -569,6 +723,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-10-25",
+        "home_team": "Lucky Mile U14",
+        "away_team": "Wong Tai Sin U14",
+        "match_time": "18:00",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - B League)",
         "group": "U14"
     },
     {
@@ -672,6 +837,39 @@
     },
     {
         "date": "2025-10-31",
+        "home_team": "Lucky Mile",
+        "away_team": "Southern",
+        "match_time": "19:00",
+        "venue": "Ma On Shan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-31",
+        "home_team": "Bright Cerulean Football Club",
+        "away_team": "HKFC",
+        "match_time": "19:00",
+        "venue": "Tuen Mun Tang Shiu Kin Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-10-31",
+        "home_team": "Kowloon Cricket Club",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Tuen Mun Tang Shiu Kin Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-10-31",
         "home_team": "Kitchee",
         "away_team": "HKFC",
         "match_time": "20:45",
@@ -691,6 +889,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
         "group": "U18"
+    },
+    {
+        "date": "2025-11-01",
+        "home_team": "HKFC U13",
+        "away_team": "UKFA U13",
+        "match_time": "16:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
     },
     {
         "date": "2025-11-02",
@@ -713,6 +922,17 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-11-02",
+        "home_team": "Sai Kung U18",
+        "away_team": "Lucky Mile U18",
+        "match_time": "13:30",
+        "venue": "Sai Kung Tang Shiu Kin Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - B League)",
+        "group": "U18"
     },
     {
         "date": "2025-11-02",
@@ -782,6 +1002,28 @@
     },
     {
         "date": "2025-11-08",
+        "home_team": "HKFC U14",
+        "away_team": "Wing Go U14",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-11-08",
+        "home_team": "Kitchee U13",
+        "away_team": "HKFC U13",
+        "match_time": "20:00",
+        "venue": "Kwong Fuk Football Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-11-08",
         "home_team": "HKFC",
         "away_team": "BC Rangers",
         "match_time": "20:30",
@@ -790,6 +1032,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2025-11-08",
+        "home_team": "Wong Tai Sin (youth)",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
     },
     {
         "date": "2025-11-09",
@@ -801,6 +1054,17 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
+    },
+    {
+        "date": "2025-11-09",
+        "home_team": "Kwun Tong U14",
+        "away_team": "Lucky Mile U14",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - B League)",
+        "group": "U14"
     },
     {
         "date": "2025-11-09",
@@ -825,6 +1089,39 @@
         "group": ""
     },
     {
+        "date": "2025-11-14",
+        "home_team": "ERSA",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Kln. Tsai Park#1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-11-14",
+        "home_team": "HKFC",
+        "away_team": "Wong Tai Sin (youth)",
+        "match_time": "19:00",
+        "venue": "Ma On Shan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-11-14",
+        "home_team": "Lucky Mile U18",
+        "away_team": "Yuen Long U18",
+        "match_time": "20:30",
+        "venue": "Wu Shan Recreation Playground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - B League)",
+        "group": "U18"
+    },
+    {
         "date": "2025-11-15",
         "home_team": "HKFC",
         "away_team": "Tai Po",
@@ -834,6 +1131,17 @@
         "away_score": "",
         "tournament": "League Cup",
         "group": ""
+    },
+    {
+        "date": "2025-11-15",
+        "home_team": "UKFA U14",
+        "away_team": "HKFC U14",
+        "match_time": "15:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
     },
     {
         "date": "2025-11-15",
@@ -856,6 +1164,17 @@
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
+    },
+    {
+        "date": "2025-11-15",
+        "home_team": "Yuen Long DSA U13",
+        "away_team": "HKFC U13",
+        "match_time": "20:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
     },
     {
         "date": "2025-11-16",
@@ -900,6 +1219,39 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
+    },
+    {
+        "date": "2025-11-21",
+        "home_team": "HKFC",
+        "away_team": "Southern",
+        "match_time": "20:30",
+        "venue": "Sha Tin Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-11-22",
+        "home_team": "Tai Po U14",
+        "away_team": "HKFC U14",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-11-22",
+        "home_team": "HKFC U13",
+        "away_team": "Lee Man U13",
+        "match_time": "19:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
     },
     {
         "date": "2025-11-23",
@@ -957,6 +1309,61 @@
         "group": "U18"
     },
     {
+        "date": "2025-11-28",
+        "home_team": "ERSA",
+        "away_team": "HKFC",
+        "match_time": "19:00",
+        "venue": "Kwai Chung Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-11-28",
+        "home_team": "North District",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Kln. Tsai Park#1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-11-29",
+        "home_team": "HKFC U14",
+        "away_team": "Southern U14",
+        "match_time": "16:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
+    },
+    {
+        "date": "2025-11-29",
+        "home_team": "Eastern U13",
+        "away_team": "HKFC U13",
+        "match_time": "18:30",
+        "venue": "Kwong Fuk Football Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-11-29",
+        "home_team": "Lucky Mile",
+        "away_team": "LFCIAHK",
+        "match_time": "19:00",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
         "date": "2025-11-30",
         "home_team": "Kitchee [Women youth]",
         "away_team": "HKFC [Women youth]",
@@ -966,6 +1373,17 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
+    },
+    {
+        "date": "2025-11-30",
+        "home_team": "Sham Shui Po U14",
+        "away_team": "Lucky Mile U14",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - B League)",
+        "group": "U14"
     },
     {
         "date": "2025-11-30",
@@ -988,6 +1406,50 @@
         "away_score": "",
         "tournament": "1st Division",
         "group": ""
+    },
+    {
+        "date": "2025-12-05",
+        "home_team": "HKFC",
+        "away_team": "Kwai Tsing",
+        "match_time": "20:30",
+        "venue": "Tsang Tai Uk Recreation Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-06",
+        "home_team": "HKFC",
+        "away_team": "Lucky Mile",
+        "match_time": "19:00",
+        "venue": "Happy Valley Recreation Ground #2",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-12-06",
+        "home_team": "HKFC U13",
+        "away_team": "ERSA U13",
+        "match_time": "20:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-12-07",
+        "home_team": "ERSA U14",
+        "away_team": "HKFC U14",
+        "match_time": "11:00",
+        "venue": "Happy Valley Recreation Ground #5",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
     },
     {
         "date": "2025-12-07",
@@ -1023,6 +1485,50 @@
         "group": "U18"
     },
     {
+        "date": "2025-12-12",
+        "home_team": "Lucky Mile",
+        "away_team": "Wing Go",
+        "match_time": "19:00",
+        "venue": "Kln. Tsai Park#1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-12-12",
+        "home_team": "HKFC",
+        "away_team": "Kwai Tsing",
+        "match_time": "19:00",
+        "venue": "Ma On Shan Sports Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U16 - A League)",
+        "group": "U16"
+    },
+    {
+        "date": "2025-12-12",
+        "home_team": "Tai Po",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Kln. Tsai Park#1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-13",
+        "home_team": "HKFC U14",
+        "away_team": "Wanchai U14",
+        "match_time": "16:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
+    },
+    {
         "date": "2025-12-14",
         "home_team": "HKFC [Women youth]",
         "away_team": "Lucky Mile [Women Youth]",
@@ -1054,6 +1560,28 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
+    },
+    {
+        "date": "2025-12-20",
+        "home_team": "Rangers U13",
+        "away_team": "HKFC U13",
+        "match_time": "18:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
+    },
+    {
+        "date": "2025-12-20",
+        "home_team": "Rangers U14",
+        "away_team": "HKFC U14",
+        "match_time": "19:30",
+        "venue": "Wong Chuk Hang RG",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U14 - A League)",
+        "group": "U14"
     },
     {
         "date": "2025-12-21",
