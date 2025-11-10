@@ -1050,8 +1050,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "09:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "10",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -1061,8 +1061,8 @@
         "away_team": "Lucky Mile U14",
         "match_time": "15:00",
         "venue": "Happy Valley Recreation Ground #5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "1",
         "tournament": "Jockey Club Youth Football League (U14 - B League)",
         "group": "U14"
     },
@@ -1072,8 +1072,8 @@
         "away_team": "Lucky Mile",
         "match_time": "17:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "8",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
         "group": "U14"
     },
