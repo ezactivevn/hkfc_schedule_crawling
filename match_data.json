@@ -1347,8 +1347,8 @@
         "away_team": "Southern U14",
         "match_time": "16:30",
         "venue": "Wong Chuk Hang RG",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "0",
+        "away_score": "3",
         "tournament": "Jockey Club Youth Football League (U14 - A League First Stage)",
         "group": "U14"
     },
@@ -1604,39 +1604,6 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
-    },
-    {
-        "date": "2025-12-16",
-        "home_team": "HKFC",
-        "away_team": "Lee Man",
-        "match_time": "19:00",
-        "venue": "HK Football Club Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2025-12-16",
-        "home_team": "United Citizen [Women youth]",
-        "away_team": "HKFC [Women youth]",
-        "match_time": "19:00",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2025-12-20",
-        "home_team": "Rangers U13",
-        "away_team": "HKFC U13",
-        "match_time": "18:00",
-        "venue": "Morse Park #3",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
-        "group": "U13"
     },
     {
         "date": "2025-12-20",
