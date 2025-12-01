@@ -1380,8 +1380,8 @@
         "away_team": "HKFC [Women youth]",
         "match_time": "13:00",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "0",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -1402,8 +1402,8 @@
         "away_team": "Citizen [Women youth]",
         "match_time": "14:45",
         "venue": "Happy Valley Recreation Ground #4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "2",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
     },
@@ -1413,8 +1413,8 @@
         "away_team": "Lucky Mile",
         "match_time": "15:30",
         "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "3",
+        "away_score": "1",
         "tournament": "1st Division",
         "group": ""
     },
@@ -1604,6 +1604,39 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U15)",
         "group": "U15"
+    },
+    {
+        "date": "2025-12-16",
+        "home_team": "HKFC",
+        "away_team": "Lee Man",
+        "match_time": "19:00",
+        "venue": "HK Football Club Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2025-12-16",
+        "home_team": "United Citizen [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "19:00",
+        "venue": "Tsing Yi Northeast Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U18)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-20",
+        "home_team": "Rangers U13",
+        "away_team": "HKFC U13",
+        "match_time": "18:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Youth Football League (U13 - A League First Stage)",
+        "group": "U13"
     },
     {
         "date": "2025-12-20",
