@@ -1424,8 +1424,8 @@
         "away_team": "Lucky Mile [Women Youth]",
         "match_time": "19:00",
         "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "3",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
     },
@@ -1438,6 +1438,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Jockey Club Youth Football League (U18 - A League)",
+        "group": "U18"
+    },
+    {
+        "date": "2025-12-05",
+        "home_team": "Lucky Mile U18",
+        "away_team": "Eastern District U18",
+        "match_time": "20:45",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League First Stage Playoff",
         "group": "U18"
     },
     {
