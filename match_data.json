@@ -1457,8 +1457,8 @@
         "away_team": "BC Rangers",
         "match_time": "16:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.5",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "2",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
@@ -1468,8 +1468,8 @@
         "away_team": "Lucky Mile",
         "match_time": "19:00",
         "venue": "Happy Valley Recreation Ground #2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "1",
+        "away_score": "0",
         "tournament": "Jockey Club Youth Football League (U16 - A League)",
         "group": "U16"
     },
@@ -1490,8 +1490,8 @@
         "away_team": "Eastern",
         "match_time": "20:30",
         "venue": "Jockey Club Kitchee Centre No.2",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "1",
         "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.2)",
         "group": "U14"
     },
