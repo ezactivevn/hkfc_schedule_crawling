@@ -1606,6 +1606,17 @@
         "group": "U18"
     },
     {
+        "date": "2025-12-12",
+        "home_team": "Kowloon City",
+        "away_team": "Lucky Mile",
+        "match_time": "20:45",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U18 (Challenging Group Rd.2)",
+        "group": "U18"
+    },
+    {
         "date": "2025-12-13",
         "home_team": "Lee Man",
         "away_team": "Lucky Mile",
@@ -1768,6 +1779,17 @@
         "home_score": "",
         "away_score": "",
         "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.2)",
+        "group": "U18"
+    },
+    {
+        "date": "2026-01-09",
+        "home_team": "Kwoon Chung Southern",
+        "away_team": "Lucky Mile",
+        "match_time": "20:45",
+        "venue": "Kwong Fuk Park Football Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Hong Kong Premier Youth League U18 (Challenging Group Rd.2)",
         "group": "U18"
     },
     {
