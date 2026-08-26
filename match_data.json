@@ -251,5 +251,27 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
+    },
+    {
+        "date": "2026-12-21",
+        "home_team": "Eastern District U-22",
+        "away_team": "HKFC U-22",
+        "match_time": "20:30",
+        "venue": "Kowloon Bay Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
+        "date": "2026-12-30",
+        "home_team": "Kwoon Chung Southern U-22",
+        "away_team": "HKFC U-22",
+        "match_time": "18:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
     }
 ]
