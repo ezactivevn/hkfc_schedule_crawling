@@ -22,72 +22,6 @@
         "group": ""
     },
     {
-        "date": "2026-09-13",
-        "home_team": "Sky Leader FC",
-        "away_team": "Lucky Mile",
-        "match_time": "13:30",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2026-09-19",
-        "home_team": "Wofoo Kowloon City",
-        "away_team": "HKFC",
-        "match_time": "16:00",
-        "venue": "Siu Sai Wan Sports Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Senior Shield",
-        "group": ""
-    },
-    {
-        "date": "2026-09-20",
-        "home_team": "Citizen",
-        "away_team": "Lucky Mile",
-        "match_time": "15:30",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2026-09-27",
-        "home_team": "Lucky Mile",
-        "away_team": "Hoi King",
-        "match_time": "15:30",
-        "venue": "Hong Kong Football Club Football Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2026-09-30",
-        "home_team": "HKFC U-22",
-        "away_team": "BC Rangers U-22",
-        "match_time": "19:00",
-        "venue": "Hong Kong Football Club Football Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2026-10-01",
-        "home_team": "Supreme Shatin",
-        "away_team": "HKFC",
-        "match_time": "19:00",
-        "venue": "Siu Sai Wan Sports Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "League Cup",
-        "group": ""
-    },
-    {
         "date": "2026-10-04",
         "home_team": "Lucky Mile",
         "away_team": "Kuitan",
@@ -121,28 +55,6 @@
         "group": ""
     },
     {
-        "date": "2026-10-11",
-        "home_team": "HKFC U-22",
-        "away_team": "Golik North District U-22",
-        "match_time": "16:00",
-        "venue": "Hammer Hill Road Sports Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2026-10-18",
-        "home_team": "South China",
-        "away_team": "Lucky Mile",
-        "match_time": "13:30",
-        "venue": "Happy Valley Recreation Ground #1",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
         "date": "2026-10-21",
         "home_team": "Lee Man U-22",
         "away_team": "HKFC U-22",
@@ -158,17 +70,6 @@
         "home_team": "Lucky Mile",
         "away_team": "Bright Cerulean FC",
         "match_time": "16:45",
-        "venue": "Hong Kong Football Club Football Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2026-11-08",
-        "home_team": "Lucky Mile",
-        "away_team": "Tung Sing",
-        "match_time": "13:15",
         "venue": "Hong Kong Football Club Football Ground",
         "home_score": "",
         "away_score": "",
@@ -220,6 +121,17 @@
         "group": ""
     },
     {
+        "date": "2026-11-29",
+        "home_team": "Harmony",
+        "away_team": "Lucky Mile",
+        "match_time": "15:30",
+        "venue": "Kwong Fuk Park Football Pitch",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
         "date": "2026-12-13",
         "home_team": "Lucky Mile",
         "away_team": "Sham Shui Po",
@@ -236,28 +148,6 @@
         "away_team": "Supreme Shatin U-22",
         "match_time": "20:00",
         "venue": "Tsuen Wan Riviera Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2026-12-21",
-        "home_team": "Eastern District U-22",
-        "away_team": "HKFC U-22",
-        "match_time": "20:30",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
-    },
-    {
-        "date": "2026-12-30",
-        "home_team": "Kwoon Chung Southern U-22",
-        "away_team": "HKFC U-22",
-        "match_time": "18:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
         "home_score": "",
         "away_score": "",
         "tournament": "HKPL U-22 League",
