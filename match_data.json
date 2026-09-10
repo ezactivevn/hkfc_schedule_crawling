@@ -16,8 +16,8 @@
         "away_team": "Wofoo Kowloon City U-22",
         "match_time": "20:30",
         "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "2",
+        "away_score": "0",
         "tournament": "HKPL U-22 League",
         "group": ""
     },
@@ -317,6 +317,39 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
+    },
+    {
+        "date": "2026-10-18",
+        "home_team": "TSL FC [Women youth]",
+        "away_team": "HKFC [Women youth]",
+        "match_time": "09:30",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2026-10-18",
+        "home_team": "Lucky Mile [Women Youth]",
+        "away_team": "Citizen [Women youth]",
+        "match_time": "11:15",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2026-10-18",
+        "home_team": "South China",
+        "away_team": "Lucky Mile",
+        "match_time": "13:30",
+        "venue": "Happy Valley Recreation Ground #1",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
     },
     {
         "date": "2026-10-20",
