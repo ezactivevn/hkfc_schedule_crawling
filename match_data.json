@@ -22,61 +22,6 @@
         "group": ""
     },
     {
-        "date": "2026-09-11",
-        "home_team": "Lucky Mile",
-        "away_team": "Lee Man",
-        "match_time": "18:45",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2026-09-11",
-        "home_team": "Eastern",
-        "away_team": "HKFC",
-        "match_time": "18:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U16 (Championship Group Rd.1)",
-        "group": "U16"
-    },
-    {
-        "date": "2026-09-11",
-        "home_team": "Eastern",
-        "away_team": "HKFC",
-        "match_time": "20:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Championship Group Rd.1)",
-        "group": "U18"
-    },
-    {
-        "date": "2026-09-11",
-        "home_team": "Kowloon Cricket Club",
-        "away_team": "Lucky Mile",
-        "match_time": "20:45",
-        "venue": "Ma On Shan Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U18 (Challenging Group Rd.1)",
-        "group": "U18"
-    },
-    {
-        "date": "2026-09-13",
-        "home_team": "Sky Leader FC",
-        "away_team": "Lucky Mile",
-        "match_time": "13:30",
-        "venue": "Kowloon Bay Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
         "date": "2026-09-18",
         "home_team": "HKFC",
         "away_team": "Lucky Mile",
@@ -185,50 +130,6 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
-    },
-    {
-        "date": "2026-09-26",
-        "home_team": "Lucky Mile",
-        "away_team": "BC Rangers",
-        "match_time": "18:45",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
-        "group": "U14"
-    },
-    {
-        "date": "2026-09-26",
-        "home_team": "Kitchee",
-        "away_team": "HKFC",
-        "match_time": "20:30",
-        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
-        "group": "U14"
-    },
-    {
-        "date": "2026-09-27",
-        "home_team": "Lucky Mile",
-        "away_team": "Hoi King",
-        "match_time": "15:30",
-        "venue": "Hong Kong Football Club Football Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "1st Division",
-        "group": ""
-    },
-    {
-        "date": "2026-09-30",
-        "home_team": "HKFC U-22",
-        "away_team": "BC Rangers U-22",
-        "match_time": "19:00",
-        "venue": "Hong Kong Football Club Football Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "HKPL U-22 League",
-        "group": ""
     },
     {
         "date": "2026-10-01",
