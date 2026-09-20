@@ -115,8 +115,8 @@
         "away_team": "HKFC",
         "match_time": "16:00",
         "venue": "Siu Sai Wan Sports Ground",
-        "home_score": "",
-        "away_score": "",
+        "home_score": "4",
+        "away_score": "1",
         "tournament": "Senior Shield",
         "group": ""
     },
@@ -812,6 +812,50 @@
         "away_score": "",
         "tournament": "Jockey Club Women's Youth Football League (U18)",
         "group": "U18"
+    },
+    {
+        "date": "2026-12-13",
+        "home_team": "HKFC [Women youth]",
+        "away_team": "Jianlibao FC (Hong Kong) [Women youth]",
+        "match_time": "11:15",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2026-12-13",
+        "home_team": "BC Rangers [Women youth]",
+        "away_team": "Lucky Mile [Women Youth]",
+        "match_time": "13:00",
+        "venue": "Morse Park #3",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "Jockey Club Women's Youth Football League (U15)",
+        "group": "U15"
+    },
+    {
+        "date": "2026-12-13",
+        "home_team": "Lucky Mile",
+        "away_team": "Sham Shui Po",
+        "match_time": "13:15",
+        "venue": "Hong Kong Football Club Football Ground",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2026-12-14",
+        "home_team": "HKFC U-22",
+        "away_team": "Supreme Shatin U-22",
+        "match_time": "20:00",
+        "venue": "Tsuen Wan Riviera Park",
+        "home_score": "",
+        "away_score": "",
+        "tournament": "HKPL U-22 League",
+        "group": ""
     },
     {
         "date": "2026-12-21",
