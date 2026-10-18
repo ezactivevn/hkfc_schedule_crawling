@@ -988,38 +988,5 @@
         "away_score": "",
         "tournament": "HKPL U-22 League",
         "group": ""
-    },
-    {
-        "date": "2027-01-26",
-        "home_team": "BC Rangers [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "20:30",
-        "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2027-02-02",
-        "home_team": "TSL FC [Women youth]",
-        "away_team": "Lucky Mile [Women Youth]",
-        "match_time": "20:30",
-        "venue": "Tsang Tai Uk Recreation Ground",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
-    },
-    {
-        "date": "2027-02-16",
-        "home_team": "Shatin [Women youth]",
-        "away_team": "HKFC [Women youth]",
-        "match_time": "20:45",
-        "venue": "Tsing Yi Northeast Park",
-        "home_score": "",
-        "away_score": "",
-        "tournament": "Jockey Club Women's Youth Football League (U18)",
-        "group": "U18"
     }
 ]
