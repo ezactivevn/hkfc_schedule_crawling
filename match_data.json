@@ -187,6 +187,50 @@
         "group": "U18"
     },
     {
+        "date": "2026-09-26",
+        "home_team": "Lucky Mile",
+        "away_team": "BC Rangers",
+        "match_time": "18:45",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "0",
+        "away_score": "5",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2026-09-26",
+        "home_team": "Kitchee",
+        "away_team": "HKFC",
+        "match_time": "20:30",
+        "venue": "Jockey Club HKFA Football Training Centre Pitch No.4",
+        "home_score": "0",
+        "away_score": "3",
+        "tournament": "Hong Kong Premier Youth League U14 (Championship Group Rd.1)",
+        "group": "U14"
+    },
+    {
+        "date": "2026-09-27",
+        "home_team": "Lucky Mile",
+        "away_team": "Hoi King",
+        "match_time": "15:00",
+        "venue": "Hong Kong Football Club Football Ground",
+        "home_score": "0",
+        "away_score": "3",
+        "tournament": "1st Division",
+        "group": ""
+    },
+    {
+        "date": "2026-09-30",
+        "home_team": "HKFC U-22",
+        "away_team": "BC Rangers U-22",
+        "match_time": "19:00",
+        "venue": "Hong Kong Football Club Football Ground",
+        "home_score": "4",
+        "away_score": "2",
+        "tournament": "HKPL U-22 League",
+        "group": ""
+    },
+    {
         "date": "2026-10-01",
         "home_team": "Supreme Shatin",
         "away_team": "HKFC",
